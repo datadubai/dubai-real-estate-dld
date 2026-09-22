@@ -52,6 +52,8 @@ exported from its nightly build.
 - **Methodology:** https://datadubai.ae/methodology/ — outlier trimming, minimum samples, how yields are computed
 - **Sources and row counts:** https://datadubai.ae/sources/
 - **Every row links back** to its page on the portal (`url` column) with charts, context and the latest figures.
+- **Mirrors:** [Hugging Face](https://huggingface.co/datasets/datadubai/dubai-real-estate-dld) ·
+  [GitHub](https://github.com/datadubai/dubai-real-estate-dld) — identical files.
 
 ## Files
 
