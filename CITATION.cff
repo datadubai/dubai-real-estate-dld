@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Dubai Real Estate — DLD open data, cleaned and aggregated"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - name: "Dubai Data (Continental Club Property)"
+    website: "https://datadubai.ae"
+url: "https://datadubai.ae"
+repository-code: "https://github.com/datadubai/dubai-real-estate-dld"
+license: CC-BY-4.0
+date-released: "2026-09-17"
+keywords: [Dubai, real estate, DLD, property prices, rental yield, open data]
