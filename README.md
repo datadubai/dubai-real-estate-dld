@@ -47,7 +47,7 @@ Registered property sales, rent contracts and the project registry of the
 [Dubai Data](https://datadubai.ae) — the same numbers that are published on the portal,
 exported from its nightly build.
 
-- **Data through:** 2026-09-17 (DLD publishes with a lag of a few working days)
+- **Data through:** 2026-09-24 (DLD publishes with a lag of a few working days)
 - **Updated:** weekly from the portal's nightly build
 - **Methodology:** https://datadubai.ae/methodology/ — outlier trimming, minimum samples, how yields are computed
 - **Sources and row counts:** https://datadubai.ae/sources/
@@ -84,6 +84,6 @@ exported from its nightly build.
 
 Aggregates are released under **CC BY 4.0**. Please cite:
 
-> Dubai Data (datadubai.ae), Continental Club Property — based on Dubai Land Department open data, data through 2026-09-17.
+> Dubai Data (datadubai.ae), Continental Club Property — based on Dubai Land Department open data, data through 2026-09-24.
 
 Source data © Dubai Land Department, published as open data. This dataset is not an official DLD product.
