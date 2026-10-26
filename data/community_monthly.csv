@@ -52,13 +52,13 @@ Jumeirah Village Circle,jumeirah-village-circle,2025-11,Nov 2025,1314,1528.73,13
 Jumeirah Village Circle,jumeirah-village-circle,2025-12,Dec 2025,1480,1553.14,1313.12,1776.53,1091366.0,1581
 Jumeirah Village Circle,jumeirah-village-circle,2026-01,Jan 2026,977,1496.53,1270.53,1681.24,1057218.0,1018
 Jumeirah Village Circle,jumeirah-village-circle,2026-02,Feb 2026,1085,1453.07,1273.35,1658.06,1055558.0,1135
-Jumeirah Village Circle,jumeirah-village-circle,2026-03,Mar 2026,888,1510.43,1310.47,1759.28,1093000.0,922
+Jumeirah Village Circle,jumeirah-village-circle,2026-03,Mar 2026,888,1510.43,1310.47,1759.28,1096000.0,921
 Jumeirah Village Circle,jumeirah-village-circle,2026-04,Apr 2026,813,1591.22,1311.2,1942.04,1059900.0,839
 Jumeirah Village Circle,jumeirah-village-circle,2026-05,May 2026,532,1446.11,1211.64,1692.78,1000000.0,556
 Jumeirah Village Circle,jumeirah-village-circle,2026-06,Jun 2026,720,1468.24,1229.29,1732.72,1005521.5,756
-Jumeirah Village Circle,jumeirah-village-circle,2026-07,Jul 2026,852,1394.11,1179.1,1624.99,970000.0,896
+Jumeirah Village Circle,jumeirah-village-circle,2026-07,Jul 2026,854,1393.73,1178.11,1624.48,970000.0,896
 Jumeirah Village Circle,jumeirah-village-circle,2026-08,Aug 2026,711,1438.58,1219.77,1642.72,1049999.0,735
-Jumeirah Village Circle,jumeirah-village-circle,2026-09,Sep 2026,771,1423.68,1205.05,1666.11,987112.5,792
+Jumeirah Village Circle,jumeirah-village-circle,2026-09,Sep 2026,775,1421.08,1201.01,1659.69,987112.5,792
 Dubai World Central,dubai-world-central,2021-10,Oct 2021,12,690.52,631.35,732.55,2279178.0,29
 Dubai World Central,dubai-world-central,2021-11,Nov 2021,16,664.18,558.58,707.28,1588888.0,31
 Dubai World Central,dubai-world-central,2021-12,Dec 2021,12,654.19,610.79,689.32,1443672.5,18
@@ -232,7 +232,7 @@ Dubai Land Residence Complex,dubai-land-residence-complex,2025-11,Nov 2025,704,1
 Dubai Land Residence Complex,dubai-land-residence-complex,2025-12,Dec 2025,584,1343.33,1200.04,1585.26,846866.0,585
 Dubai Land Residence Complex,dubai-land-residence-complex,2026-01,Jan 2026,659,1389.15,1185.88,1608.88,801000.0,679
 Dubai Land Residence Complex,dubai-land-residence-complex,2026-02,Feb 2026,705,1444.55,1222.81,1629.14,791365.5,710
-Dubai Land Residence Complex,dubai-land-residence-complex,2026-03,Mar 2026,752,1474.53,1267.32,1620.63,800556.0,760
+Dubai Land Residence Complex,dubai-land-residence-complex,2026-03,Mar 2026,751,1474.77,1268.34,1620.64,800556.0,760
 Dubai Land Residence Complex,dubai-land-residence-complex,2026-04,Apr 2026,588,1449.87,1201.7,1615.41,845505.5,606
 Dubai Land Residence Complex,dubai-land-residence-complex,2026-05,May 2026,545,1489.74,1242.41,1648.27,799384.0,563
 Dubai Land Residence Complex,dubai-land-residence-complex,2026-06,Jun 2026,400,1374.1,1191.93,1558.21,879777.0,407
@@ -633,7 +633,7 @@ Dubai Sports City,dubai-sports-city,2026-04,Apr 2026,208,1335.92,905.96,1501.7,9
 Dubai Sports City,dubai-sports-city,2026-05,May 2026,123,1329.9,1129.5,1437.91,1070600.0,127
 Dubai Sports City,dubai-sports-city,2026-06,Jun 2026,239,1294.7,1065.77,1398.75,968400.0,258
 Dubai Sports City,dubai-sports-city,2026-07,Jul 2026,170,1277.59,1024.48,1423.76,853000.0,187
-Dubai Sports City,dubai-sports-city,2026-08,Aug 2026,134,1166.2,872.79,1439.12,926000.0,161
+Dubai Sports City,dubai-sports-city,2026-08,Aug 2026,134,1166.2,872.79,1439.12,925500.0,162
 Dubai Sports City,dubai-sports-city,2026-09,Sep 2026,161,1149.58,938.23,1376.01,920000.0,189
 International Media Production Zone,international-media-production-zone,2021-10,Oct 2021,30,560.28,461.79,622.65,246250.0,30
 International Media Production Zone,international-media-production-zone,2021-11,Nov 2021,48,556.27,477.89,1066.5,490000.0,49
@@ -686,7 +686,7 @@ International Media Production Zone,international-media-production-zone,2025-09,
 International Media Production Zone,international-media-production-zone,2025-10,Oct 2025,384,1407.66,1208.14,1693.77,831249.0,404
 International Media Production Zone,international-media-production-zone,2025-11,Nov 2025,279,1329.25,1135.45,1545.41,818749.0,287
 International Media Production Zone,international-media-production-zone,2025-12,Dec 2025,281,1311.79,1106.82,1438.05,924999.0,285
-International Media Production Zone,international-media-production-zone,2026-01,Jan 2026,341,1326.85,1140.63,1441.84,1047274.5,344
+International Media Production Zone,international-media-production-zone,2026-01,Jan 2026,341,1326.85,1140.63,1441.84,1048106.0,343
 International Media Production Zone,international-media-production-zone,2026-02,Feb 2026,365,1352.72,1222.88,1467.94,1067409.0,366
 International Media Production Zone,international-media-production-zone,2026-03,Mar 2026,372,1363.31,1234.84,1485.86,1065159.0,379
 International Media Production Zone,international-media-production-zone,2026-04,Apr 2026,246,1324.46,1182.03,1437.81,998721.0,248
@@ -977,13 +977,13 @@ DownTown Dubai,downtown-dubai,2025-11,Nov 2025,448,3751.45,2707.94,3931.77,28000
 DownTown Dubai,downtown-dubai,2025-12,Dec 2025,311,3212.44,2516.06,3884.55,2850000.0,320
 DownTown Dubai,downtown-dubai,2026-01,Jan 2026,246,3058.97,2526.82,3671.45,3298250.0,246
 DownTown Dubai,downtown-dubai,2026-02,Feb 2026,223,2794.21,2322.79,3323.25,3200000.0,230
-DownTown Dubai,downtown-dubai,2026-03,Mar 2026,147,2862.15,2325.3,3517.77,2975000.0,148
-DownTown Dubai,downtown-dubai,2026-04,Apr 2026,124,2714.59,2254.26,3386.75,2937500.0,124
-DownTown Dubai,downtown-dubai,2026-05,May 2026,106,2576.04,2046.34,3232.14,2981949.0,114
+DownTown Dubai,downtown-dubai,2026-03,Mar 2026,145,2847.95,2322.58,3481.85,2975000.0,148
+DownTown Dubai,downtown-dubai,2026-04,Apr 2026,124,2714.59,2254.26,3386.75,2975000.0,125
+DownTown Dubai,downtown-dubai,2026-05,May 2026,106,2576.04,2046.34,3232.14,3000000.0,115
 DownTown Dubai,downtown-dubai,2026-06,Jun 2026,137,2659.71,2065.85,3264.14,2762500.0,140
-DownTown Dubai,downtown-dubai,2026-07,Jul 2026,152,2461.1,2021.29,2980.31,2600000.0,158
+DownTown Dubai,downtown-dubai,2026-07,Jul 2026,153,2464.11,2022.89,2983.48,2600000.0,158
 DownTown Dubai,downtown-dubai,2026-08,Aug 2026,140,2554.65,2090.04,3185.72,3050000.0,141
-DownTown Dubai,downtown-dubai,2026-09,Sep 2026,141,2648.32,2180.98,3178.62,3037500.0,164
+DownTown Dubai,downtown-dubai,2026-09,Sep 2026,142,2659.59,2183.15,3245.02,3037500.0,164
 City Of Arabia,city-of-arabia,2024-03,Mar 2024,23,1223.47,1069.58,1375.65,944500.0,24
 City Of Arabia,city-of-arabia,2024-04,Apr 2024,44,1379.62,1293.08,1501.38,1030000.0,44
 City Of Arabia,city-of-arabia,2024-05,May 2024,74,1378.92,1248.86,1444.59,1021500.0,74
@@ -1258,7 +1258,7 @@ Silicon Oasis,silicon-oasis,2025-12,Dec 2025,230,1348.63,955.77,1885.67,950000.0
 Silicon Oasis,silicon-oasis,2026-01,Jan 2026,181,1127.2,912.75,1543.5,1006888.5,204
 Silicon Oasis,silicon-oasis,2026-02,Feb 2026,173,1120.41,914.99,1375.76,960000.0,199
 Silicon Oasis,silicon-oasis,2026-03,Mar 2026,128,1220.91,950.0,1539.92,1289828.0,143
-Silicon Oasis,silicon-oasis,2026-04,Apr 2026,133,1210.38,933.17,1590.37,1157339.0,148
+Silicon Oasis,silicon-oasis,2026-04,Apr 2026,133,1210.38,933.17,1590.37,1164678.0,147
 Silicon Oasis,silicon-oasis,2026-05,May 2026,79,1200.0,906.62,1353.18,1103000.0,89
 Silicon Oasis,silicon-oasis,2026-06,Jun 2026,85,1179.13,895.35,1275.0,1000000.0,95
 Silicon Oasis,silicon-oasis,2026-07,Jul 2026,150,1200.0,907.2,1566.39,1097788.0,157
@@ -1669,13 +1669,13 @@ International City Phase 1,international-city-phase-1,2025-10,Oct 2025,138,634.9
 International City Phase 1,international-city-phase-1,2025-11,Nov 2025,162,617.15,517.43,710.86,430000.0,196
 International City Phase 1,international-city-phase-1,2025-12,Dec 2025,117,668.91,619.35,732.9,475000.0,150
 International City Phase 1,international-city-phase-1,2026-01,Jan 2026,136,667.28,613.23,766.95,477500.0,178
-International City Phase 1,international-city-phase-1,2026-02,Feb 2026,142,723.18,640.99,975.28,530000.0,192
-International City Phase 1,international-city-phase-1,2026-03,Mar 2026,144,830.44,649.13,1117.45,596226.0,159
-International City Phase 1,international-city-phase-1,2026-04,Apr 2026,147,854.43,637.72,1143.94,552256.0,174
+International City Phase 1,international-city-phase-1,2026-02,Feb 2026,142,723.18,640.99,975.28,530000.0,191
+International City Phase 1,international-city-phase-1,2026-03,Mar 2026,144,830.44,649.13,1117.45,598113.0,158
+International City Phase 1,international-city-phase-1,2026-04,Apr 2026,147,854.43,637.72,1143.94,552256.0,173
 International City Phase 1,international-city-phase-1,2026-05,May 2026,109,718.49,626.09,1084.83,507500.0,118
-International City Phase 1,international-city-phase-1,2026-06,Jun 2026,82,629.68,567.93,720.28,425000.0,92
-International City Phase 1,international-city-phase-1,2026-07,Jul 2026,90,648.16,591.14,926.04,460000.0,115
-International City Phase 1,international-city-phase-1,2026-08,Aug 2026,104,670.97,585.55,750.56,445000.0,122
+International City Phase 1,international-city-phase-1,2026-06,Jun 2026,82,629.68,567.93,720.28,425000.0,90
+International City Phase 1,international-city-phase-1,2026-07,Jul 2026,90,648.16,591.14,926.04,460000.0,113
+International City Phase 1,international-city-phase-1,2026-08,Aug 2026,104,670.97,585.55,750.56,445000.0,120
 International City Phase 1,international-city-phase-1,2026-09,Sep 2026,115,734.46,646.47,995.48,482500.0,138
 Dubai Studio City,dubai-studio-city,2021-10,Oct 2021,10,616.0,581.96,742.67,535745.0,11
 Dubai Studio City,dubai-studio-city,2021-11,Nov 2021,28,1127.61,650.48,1196.22,435684.0,32
@@ -1730,7 +1730,7 @@ Dubai Studio City,dubai-studio-city,2025-11,Nov 2025,211,1397.96,1309.47,1449.09
 Dubai Studio City,dubai-studio-city,2025-12,Dec 2025,128,1448.55,1356.92,1557.78,889380.0,144
 Dubai Studio City,dubai-studio-city,2026-01,Jan 2026,135,1506.07,1355.76,1597.87,903588.0,161
 Dubai Studio City,dubai-studio-city,2026-02,Feb 2026,177,1529.89,1390.59,1639.84,769900.0,186
-Dubai Studio City,dubai-studio-city,2026-03,Mar 2026,85,1465.85,1332.19,1625.0,796000.0,108
+Dubai Studio City,dubai-studio-city,2026-03,Mar 2026,85,1465.85,1332.19,1625.0,790000.0,109
 Dubai Studio City,dubai-studio-city,2026-04,Apr 2026,61,1512.52,1380.21,1646.78,855355.0,88
 Dubai Studio City,dubai-studio-city,2026-05,May 2026,75,1499.29,1388.55,1611.77,594000.0,83
 Dubai Studio City,dubai-studio-city,2026-06,Jun 2026,133,1518.5,1437.76,1626.38,566440.0,151
@@ -1790,7 +1790,7 @@ International City Phase 3,international-city-phase-3,2025-11,Nov 2025,132,1075.
 International City Phase 3,international-city-phase-3,2025-12,Dec 2025,92,1075.34,974.98,1258.54,686211.0,93
 International City Phase 3,international-city-phase-3,2026-01,Jan 2026,85,1080.51,932.45,1293.17,745290.0,89
 International City Phase 3,international-city-phase-3,2026-02,Feb 2026,92,1119.65,1005.6,1263.01,740000.0,95
-International City Phase 3,international-city-phase-3,2026-03,Mar 2026,63,1201.49,1077.9,1309.51,675000.0,67
+International City Phase 3,international-city-phase-3,2026-03,Mar 2026,63,1201.49,1077.9,1309.51,682500.0,66
 International City Phase 3,international-city-phase-3,2026-04,Apr 2026,127,1224.11,1057.1,1413.21,866500.0,126
 International City Phase 3,international-city-phase-3,2026-05,May 2026,256,1014.58,876.16,1362.71,842160.0,183
 International City Phase 3,international-city-phase-3,2026-06,Jun 2026,151,1158.62,1067.59,1400.83,880750.0,150
@@ -2070,7 +2070,7 @@ Palm Jumeirah,palm-jumeirah,2025-10,Oct 2025,91,2516.36,2189.0,3079.03,4491000.0
 Palm Jumeirah,palm-jumeirah,2025-11,Nov 2025,89,2717.44,2234.21,3832.2,5750000.0,118
 Palm Jumeirah,palm-jumeirah,2025-12,Dec 2025,99,2818.66,2235.12,3638.86,4438800.0,117
 Palm Jumeirah,palm-jumeirah,2026-01,Jan 2026,61,2619.28,2177.73,3286.0,4400000.0,88
-Palm Jumeirah,palm-jumeirah,2026-02,Feb 2026,86,3009.32,2488.65,3594.19,5100000.0,116
+Palm Jumeirah,palm-jumeirah,2026-02,Feb 2026,87,3009.32,2491.56,3654.62,5100000.0,115
 Palm Jumeirah,palm-jumeirah,2026-03,Mar 2026,45,2432.51,2098.09,3080.14,4906858.5,80
 Palm Jumeirah,palm-jumeirah,2026-04,Apr 2026,39,2329.62,2111.89,2873.31,4440000.0,59
 Palm Jumeirah,palm-jumeirah,2026-05,May 2026,35,2482.49,1998.15,3408.18,4713005.0,47
@@ -2197,7 +2197,7 @@ Discovery Gardens,discovery-gardens,2026-05,May 2026,54,1032.7,925.13,1164.96,78
 Discovery Gardens,discovery-gardens,2026-06,Jun 2026,70,969.87,811.61,1042.04,674271.5,64
 Discovery Gardens,discovery-gardens,2026-07,Jul 2026,86,904.49,815.67,1052.07,770000.0,87
 Discovery Gardens,discovery-gardens,2026-08,Aug 2026,70,942.51,824.32,1050.04,775000.0,69
-Discovery Gardens,discovery-gardens,2026-09,Sep 2026,93,892.72,849.69,1030.82,762500.0,96
+Discovery Gardens,discovery-gardens,2026-09,Sep 2026,93,892.72,849.69,1030.82,765000.0,97
 Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,2021-10,Oct 2021,18,855.48,699.76,907.89,666686.5,20
 Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,2021-11,Nov 2021,28,808.42,676.68,934.89,728420.0,29
 Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,2021-12,Dec 2021,18,865.25,743.52,894.89,655000.0,18
@@ -2429,13 +2429,13 @@ Dubai Harbour,dubai-harbour,2025-09,Sep 2025,54,4197.66,3454.54,4564.24,6039000.
 Dubai Harbour,dubai-harbour,2025-10,Oct 2025,82,3751.05,3328.32,4217.16,5100000.0,81
 Dubai Harbour,dubai-harbour,2025-11,Nov 2025,77,3885.94,3308.77,4521.15,4950000.0,81
 Dubai Harbour,dubai-harbour,2025-12,Dec 2025,100,4197.63,3549.85,4741.46,5112500.0,102
-Dubai Harbour,dubai-harbour,2026-01,Jan 2026,45,3529.3,3230.33,3846.8,4386653.0,62
-Dubai Harbour,dubai-harbour,2026-02,Feb 2026,89,3633.49,3238.9,4164.58,4758084.0,116
+Dubai Harbour,dubai-harbour,2026-01,Jan 2026,45,3529.3,3230.33,3846.8,4500000.0,63
+Dubai Harbour,dubai-harbour,2026-02,Feb 2026,88,3633.32,3236.1,4119.77,4758084.0,116
 Dubai Harbour,dubai-harbour,2026-03,Mar 2026,34,3908.12,3530.34,4368.54,4800000.0,37
-Dubai Harbour,dubai-harbour,2026-04,Apr 2026,38,3657.51,3037.47,4209.63,6480888.0,51
+Dubai Harbour,dubai-harbour,2026-04,Apr 2026,38,3657.51,3037.47,4209.63,5788944.0,50
 Dubai Harbour,dubai-harbour,2026-05,May 2026,33,3567.84,3351.03,4015.44,6187944.0,36
-Dubai Harbour,dubai-harbour,2026-06,Jun 2026,31,3591.73,3249.69,3986.32,4225000.0,36
-Dubai Harbour,dubai-harbour,2026-07,Jul 2026,35,3589.04,3150.19,4042.62,4167019.0,40
+Dubai Harbour,dubai-harbour,2026-06,Jun 2026,29,3533.24,3235.12,3874.5,4225000.0,36
+Dubai Harbour,dubai-harbour,2026-07,Jul 2026,36,3590.88,3153.2,4039.95,4167019.0,40
 Dubai Harbour,dubai-harbour,2026-08,Aug 2026,22,3498.82,3170.74,3949.21,4188888.0,23
 Dubai Harbour,dubai-harbour,2026-09,Sep 2026,25,2983.24,2781.72,3706.76,3000000.0,25
 Sama Al Jadaf,sama-al-jadaf,2026-01,Jan 2026,168,2204.07,2167.1,2265.86,876999.0,172
@@ -2498,10 +2498,10 @@ City Walk,city-walk,2025-09,Sep 2025,75,3024.94,2679.3,3274.1,3572000.0,74
 City Walk,city-walk,2025-10,Oct 2025,113,3236.67,3084.77,3335.95,3450000.0,108
 City Walk,city-walk,2025-11,Nov 2025,36,2911.16,2760.41,3083.43,3800000.0,39
 City Walk,city-walk,2025-12,Dec 2025,36,2982.14,2551.9,3244.84,3750000.0,36
-City Walk,city-walk,2026-01,Jan 2026,78,3184.92,2934.78,3425.47,3760000.0,76
+City Walk,city-walk,2026-01,Jan 2026,78,3184.92,2934.78,3425.47,3762000.0,77
 City Walk,city-walk,2026-02,Feb 2026,206,3343.4,3136.27,3493.68,3805000.0,203
 City Walk,city-walk,2026-03,Mar 2026,46,3312.69,3003.38,3459.74,2855000.0,47
-City Walk,city-walk,2026-04,Apr 2026,118,2815.31,2650.92,3354.31,4399958.0,111
+City Walk,city-walk,2026-04,Apr 2026,118,2815.31,2650.92,3354.31,4399958.0,113
 City Walk,city-walk,2026-05,May 2026,41,3326.31,2932.08,3432.43,2842000.0,41
 City Walk,city-walk,2026-06,Jun 2026,28,2999.88,2653.04,3299.53,2825500.0,26
 City Walk,city-walk,2026-07,Jul 2026,35,2942.4,2726.32,3338.26,2744500.0,32
@@ -2694,7 +2694,7 @@ Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-distri
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026-04,Apr 2026,49,1895.04,1807.3,2025.59,2183200.0,58
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026-05,May 2026,53,2043.63,1856.52,2809.13,7187781.5,58
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026-06,Jun 2026,30,1845.41,1737.4,2059.1,2283594.5,46
-Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026-07,Jul 2026,41,1873.44,1621.76,2034.28,3250000.0,45
+Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026-07,Jul 2026,40,1866.94,1619.58,2023.71,3250000.0,45
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026-08,Aug 2026,33,1698.34,1600.0,1954.18,1203888.0,70
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026-09,Sep 2026,31,1711.82,1486.42,1948.56,2653867.5,32
 EXPO CITY,expo-city,2026-01,Jan 2026,53,2093.59,2055.33,2145.6,2288888.0,53
@@ -2756,7 +2756,7 @@ Dubai Water Canal,dubai-water-canal,2026-01,Jan 2026,34,3060.78,2771.86,3328.19,
 Dubai Water Canal,dubai-water-canal,2026-02,Feb 2026,58,3481.48,3098.75,3862.86,4929835.0,56
 Dubai Water Canal,dubai-water-canal,2026-03,Mar 2026,71,2858.25,2280.57,3229.89,2860000.0,67
 Dubai Water Canal,dubai-water-canal,2026-04,Apr 2026,52,3326.37,2684.47,3655.92,3054000.0,43
-Dubai Water Canal,dubai-water-canal,2026-05,May 2026,26,2926.33,2581.98,3123.38,3241300.0,22
+Dubai Water Canal,dubai-water-canal,2026-05,May 2026,26,2926.33,2581.98,3123.38,3264000.0,23
 Dubai Water Canal,dubai-water-canal,2026-06,Jun 2026,32,2995.2,2665.05,3493.13,2617490.0,29
 Dubai Water Canal,dubai-water-canal,2026-07,Jul 2026,36,3001.2,2748.38,3296.0,3417976.0,42
 Dubai Water Canal,dubai-water-canal,2026-08,Aug 2026,23,3081.45,2902.53,3687.44,2850000.0,22
@@ -3088,12 +3088,12 @@ Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2025-09,Sep 2025,54,
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2025-10,Oct 2025,55,1602.42,1446.9,1958.66,2500000.0,55
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2025-11,Nov 2025,62,1687.7,1470.21,2392.42,2670000.0,64
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2025-12,Dec 2025,40,1963.24,1500.5,2651.46,2900000.0,43
-Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-01,Jan 2026,28,1560.1,1409.8,1889.28,2400000.0,29
+Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-01,Jan 2026,28,1560.1,1409.8,1889.28,2450000.0,30
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-02,Feb 2026,47,1689.34,1420.78,1911.29,2630000.0,49
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-03,Mar 2026,21,1861.63,1577.67,2159.08,2400000.0,19
-Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-04,Apr 2026,36,1523.74,1411.94,2040.58,2565000.0,35
+Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-04,Apr 2026,37,1542.73,1419.0,2153.51,2565000.0,35
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-05,May 2026,12,1481.11,1362.37,1699.39,2590000.0,12
-Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-06,Jun 2026,34,1505.04,1335.51,1738.43,2112500.0,34
+Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-06,Jun 2026,34,1505.04,1335.51,1738.43,2125000.0,35
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-07,Jul 2026,30,1583.8,1368.29,1945.98,2500000.0,28
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-08,Aug 2026,35,1605.75,1380.81,1899.56,2575000.0,35
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2026-09,Sep 2026,38,1542.42,1412.25,1929.17,2250000.0,39
@@ -3666,11 +3666,11 @@ LA MER,la-mer,2026-01,Jan 2026,15,3001.31,2796.85,3108.73,3000000.0,16
 LA MER,la-mer,2026-02,Feb 2026,13,3453.79,3040.95,3797.38,4400000.0,15
 LA MER,la-mer,2026-03,Mar 2026,12,2995.95,2743.87,3551.23,2475000.0,16
 LA MER,la-mer,2026-04,Apr 2026,6,2673.48,2433.98,2904.92,3100000.0,5
-LA MER,la-mer,2026-05,May 2026,1,,,,,1
+LA MER,la-mer,2026-05,May 2026,1,,,,,2
 LA MER,la-mer,2026-06,Jun 2026,7,2760.56,2502.36,2793.44,2275000.0,7
 LA MER,la-mer,2026-07,Jul 2026,12,2788.14,2334.72,3309.35,3125000.0,12
 LA MER,la-mer,2026-08,Aug 2026,1,,,,,2
-LA MER,la-mer,2026-09,Sep 2026,8,2880.14,2562.17,2972.65,2380000.0,11
+LA MER,la-mer,2026-09,Sep 2026,9,2884.41,2564.66,3070.92,2380000.0,11
 Remraam,remraam,2021-10,Oct 2021,10,541.81,482.91,600.55,590000.0,10
 Remraam,remraam,2021-11,Nov 2021,17,555.82,527.93,604.62,454000.0,17
 Remraam,remraam,2021-12,Dec 2021,30,624.0,537.99,640.93,427500.0,30
