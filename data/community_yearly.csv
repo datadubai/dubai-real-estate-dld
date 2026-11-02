@@ -15,7 +15,7 @@ Jumeirah Village Circle,jumeirah-village-circle,2022,5990,680000.0,944.97,559186
 Jumeirah Village Circle,jumeirah-village-circle,2023,14075,784000.0,1162.55,15226878780.0
 Jumeirah Village Circle,jumeirah-village-circle,2024,17318,900021.0,1304.52,20328193998.0
 Jumeirah Village Circle,jumeirah-village-circle,2025,18733,1030000.0,1475.29,23963231140.0
-Jumeirah Village Circle,jumeirah-village-circle,2026,7853,1041945.5,1465.2,10039671136.0
+Jumeirah Village Circle,jumeirah-village-circle,2026,7853,1041945.5,1464.49,10039671136.0
 Dubai World Central,dubai-world-central,2011,1,,,12960082.0
 Dubai World Central,dubai-world-central,2014,1,,,5600000.0
 Dubai World Central,dubai-world-central,2015,1,,,25760000.0
@@ -46,7 +46,7 @@ Business Bay,business-bay,2022,8432,1111492.5,1759.02,12046550620.0
 Business Bay,business-bay,2023,8969,1350000.0,2113.96,15157434712.0
 Business Bay,business-bay,2024,9742,1474267.0,2217.36,18380054576.0
 Business Bay,business-bay,2025,11634,1524999.0,2445.51,22737676654.0
-Business Bay,business-bay,2026,4206,2060750.0,2275.26,15058248777.0
+Business Bay,business-bay,2026,4206,2060000.0,2275.26,15014089494.0
 Dubai Land Residence Complex,dubai-land-residence-complex,2010,16,534736.0,659.02,15872440.0
 Dubai Land Residence Complex,dubai-land-residence-complex,2011,698,598493.0,684.48,540040443.0
 Dubai Land Residence Complex,dubai-land-residence-complex,2012,784,581270.0,677.68,487551654.0
@@ -89,7 +89,7 @@ Palm Deira,palm-deira,2022,39,19318800.0,,849373000.0
 Palm Deira,palm-deira,2023,483,4712000.0,2511.22,3649691000.0
 Palm Deira,palm-deira,2024,1798,3865500.0,2133.61,11836361614.0
 Palm Deira,palm-deira,2025,4460,2695000.0,2417.03,17231787670.0
-Palm Deira,palm-deira,2026,3560,2864587.5,2839.52,12343445926.0
+Palm Deira,palm-deira,2026,3560,2864540.0,2839.52,12332756926.0
 Jumeirah Village Triangle,jumeirah-village-triangle,2010,327,1487200.0,1160.03,439632444.0
 Jumeirah Village Triangle,jumeirah-village-triangle,2011,220,1479800.0,,311115018.0
 Jumeirah Village Triangle,jumeirah-village-triangle,2012,590,1487200.0,687.76,913568724.0
@@ -267,7 +267,7 @@ DownTown Dubai,downtown-dubai,2022,5091,2350000.0,2435.09,14090980882.0
 DownTown Dubai,downtown-dubai,2023,4816,2500000.0,2520.19,14331764366.0
 DownTown Dubai,downtown-dubai,2024,4304,2700000.0,2662.98,14010732598.0
 DownTown Dubai,downtown-dubai,2025,4000,2950000.0,2929.59,13362097618.0
-DownTown Dubai,downtown-dubai,2026,1639,3000000.0,2742.62,5954705959.0
+DownTown Dubai,downtown-dubai,2026,1639,3000000.0,2742.62,5944026959.0
 City Of Arabia,city-of-arabia,2010,1,,,78000000.0
 City Of Arabia,city-of-arabia,2012,2,,,79377332.0
 City Of Arabia,city-of-arabia,2015,20,5461400.0,830.0,52389800.0
@@ -316,7 +316,7 @@ Dubai Hills Estate,dubai-hills-estate,2022,2496,1317001.0,1701.91,4501045202.0
 Dubai Hills Estate,dubai-hills-estate,2023,4670,1710055.0,2000.0,9444023113.0
 Dubai Hills Estate,dubai-hills-estate,2024,6533,2070888.0,2282.84,15076155293.0
 Dubai Hills Estate,dubai-hills-estate,2025,3849,2028135.0,2425.97,9231296861.0
-Dubai Hills Estate,dubai-hills-estate,2026,1578,2250000.0,2381.04,4396240044.0
+Dubai Hills Estate,dubai-hills-estate,2026,1578,2250000.0,2381.04,4405049932.0
 Dubai Marina,dubai-marina,2010,5502,1205888.0,1029.44,8368316933.0
 Dubai Marina,dubai-marina,2011,4497,1275175.0,984.51,6510901486.0
 Dubai Marina,dubai-marina,2012,5620,1242075.0,1042.08,8478132728.0
@@ -556,7 +556,7 @@ Palm Jumeirah,palm-jumeirah,2022,3320,3650000.0,2721.78,15815843459.0
 Palm Jumeirah,palm-jumeirah,2023,2487,3565000.0,2433.75,12903165645.0
 Palm Jumeirah,palm-jumeirah,2024,1798,3600000.0,2332.45,11692132646.0
 Palm Jumeirah,palm-jumeirah,2025,1692,4375000.0,2625.12,11905475830.0
-Palm Jumeirah,palm-jumeirah,2026,853,4700000.0,2523.07,5730778065.0
+Palm Jumeirah,palm-jumeirah,2026,853,4698500.0,2521.18,5709439635.0
 SOBHA HARTLAND,sobha-hartland,2014,1,,,32512826.0
 SOBHA HARTLAND,sobha-hartland,2015,19,2659261.0,1600.92,120596992.0
 SOBHA HARTLAND,sobha-hartland,2016,26,1270586.5,1471.25,65021343.0
@@ -586,7 +586,7 @@ Discovery Gardens,discovery-gardens,2022,434,393000.0,519.76,315172911.0
 Discovery Gardens,discovery-gardens,2023,790,545000.0,739.59,811558884.0
 Discovery Gardens,discovery-gardens,2024,1693,710000.0,1121.11,1839932729.0
 Discovery Gardens,discovery-gardens,2025,1323,730000.0,990.25,2369412271.0
-Discovery Gardens,discovery-gardens,2026,917,760000.0,995.39,949339298.0
+Discovery Gardens,discovery-gardens,2026,917,760000.0,995.39,948546854.0
 Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,2010,3,,,159263455.0
 Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,2012,1,,,15217903.0
 Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,2013,1,,,15022435.0
@@ -645,7 +645,7 @@ Dubai Harbour,dubai-harbour,2022,1876,3500000.0,2878.4,7516236402.0
 Dubai Harbour,dubai-harbour,2023,3423,4134888.0,4000.0,16826945605.0
 Dubai Harbour,dubai-harbour,2024,1604,4649101.0,3900.01,7516205338.0
 Dubai Harbour,dubai-harbour,2025,1625,5681976.0,3930.57,8619692347.0
-Dubai Harbour,dubai-harbour,2026,529,4500000.0,3590.38,2257954663.0
+Dubai Harbour,dubai-harbour,2026,529,4500000.0,3589.04,2266754663.0
 Sama Al Jadaf,sama-al-jadaf,2010,58,19534700.0,,1532269819.0
 Sama Al Jadaf,sama-al-jadaf,2011,14,23352750.0,,351127554.0
 Sama Al Jadaf,sama-al-jadaf,2012,19,18115815.0,,335488372.0
@@ -673,7 +673,7 @@ City Walk,city-walk,2022,1020,1996500.0,1991.69,2522669459.0
 City Walk,city-walk,2023,959,2893829.5,2340.76,2980276106.0
 City Walk,city-walk,2024,1388,3376500.0,2827.81,4803293121.0
 City Walk,city-walk,2025,1008,3305000.0,3107.67,3731241773.0
-City Walk,city-walk,2026,623,3492000.0,3213.17,2372670245.0
+City Walk,city-walk,2026,623,3491500.0,3213.17,2362009245.0
 Sufouh Gardens,sufouh-gardens,2011,5,5015640.0,,24591250.0
 Sufouh Gardens,sufouh-gardens,2012,3,,,19450000.0
 Sufouh Gardens,sufouh-gardens,2013,197,1387478.0,1224.96,369709972.0
@@ -723,7 +723,7 @@ Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-distri
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2023,1215,4273800.0,1652.14,8080670329.0
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2024,639,3479777.0,1493.94,3161040806.0
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2025,848,2505777.0,1762.41,3725162742.0
-Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026,468,3100000.0,1865.32,2210116492.0
+Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2026,468,3100000.0,1867.19,2210116492.0
 EXPO CITY,expo-city,2026,644,1750444.0,2180.89,1356644427.0
 Dubai Water Canal,dubai-water-canal,2019,11,6539000.0,,102648000.0
 Dubai Water Canal,dubai-water-canal,2020,1,,,36318000.0
@@ -732,7 +732,7 @@ Dubai Water Canal,dubai-water-canal,2022,1231,2894800.0,2090.47,3869413960.0
 Dubai Water Canal,dubai-water-canal,2023,388,3573800.0,2509.48,1319823206.0
 Dubai Water Canal,dubai-water-canal,2024,405,3605000.0,2340.51,1346658715.0
 Dubai Water Canal,dubai-water-canal,2025,1062,3333333.0,3089.08,3988483849.0
-Dubai Water Canal,dubai-water-canal,2026,414,3045000.0,3081.45,1307911973.0
+Dubai Water Canal,dubai-water-canal,2026,414,3022500.0,3081.45,1297221906.0
 Mudon,mudon,2013,84,2890000.0,,242388000.0
 Mudon,mudon,2014,364,3151300.0,,1187335640.0
 Mudon,mudon,2015,922,2271000.0,,2278405459.0
@@ -887,7 +887,7 @@ TILAL AL GHAF,tilal-al-ghaf,2022,700,5137500.0,1172.11,5390938240.0
 TILAL AL GHAF,tilal-al-ghaf,2023,856,4267500.0,1521.64,7141766688.0
 TILAL AL GHAF,tilal-al-ghaf,2024,651,7198000.0,1912.36,6808160929.0
 TILAL AL GHAF,tilal-al-ghaf,2025,494,7800000.0,2358.63,5313520651.0
-TILAL AL GHAF,tilal-al-ghaf,2026,249,7762500.0,2322.21,2493103767.0
+TILAL AL GHAF,tilal-al-ghaf,2026,249,7762500.0,2320.68,2493103767.0
 Barsha Heights,barsha-heights,2010,305,1152995.5,950.14,611092877.0
 Barsha Heights,barsha-heights,2011,210,1343580.0,913.92,512425373.0
 Barsha Heights,barsha-heights,2012,335,1016121.0,983.14,791809323.0
@@ -921,7 +921,7 @@ Jabal Ali Village,jabal-ali-village,2023,183,3650000.0,,746301044.0
 Jabal Ali Village,jabal-ali-village,2024,111,4150000.0,,525658000.0
 Jabal Ali Village,jabal-ali-village,2025,58,5250000.0,,360882160.0
 Jabal Ali Village,jabal-ali-village,2026,303,641474.0,,610441185.0
-Emirates Living,emirates-living,2026,311,4999999.5,1666.59,3147984206.0
+Emirates Living,emirates-living,2026,311,4999999.0,1666.59,3013984206.0
 Al Barari,al-barari,2010,35,11100000.0,,408795196.0
 Al Barari,al-barari,2011,24,11662981.0,,307389177.0
 Al Barari,al-barari,2012,24,13596573.5,,337955977.0
@@ -1083,7 +1083,7 @@ Dubai Industrial City,dubai-industrial-city,2026,110,2067320.0,,1493815082.0
 Dubai International Financial Center,dubai-international-financial-center,2013,1,,,0.0
 Dubai International Financial Center,dubai-international-financial-center,2023,1,,,0.0
 Dubai International Financial Center,dubai-international-financial-center,2025,129,6666900.0,4380.34,744976750.0
-Dubai International Financial Center,dubai-international-financial-center,2026,56,4334375.0,3716.31,236091010.0
+Dubai International Financial Center,dubai-international-financial-center,2026,56,4334375.0,3716.12,236091010.0
 The Villa,the-villa,2010,146,3183780.0,,447145816.0
 The Villa,the-villa,2011,384,2246344.0,,887014298.0
 The Villa,the-villa,2012,717,2339013.0,,1742490429.0
