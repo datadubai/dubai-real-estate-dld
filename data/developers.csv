@@ -1,16 +1,16 @@
 name,slug,url,number,n,quality,price_median,psf_median,psf_yoy,n_yoy,offplan_share,n_projects,units,building
-Azizi Developments L.L.C,azizi-developments-l-l-c,https://datadubai.ae/developers/azizi-developments-l-l-c/,1002,16358,ok,673000.0,1705.85,1.6,162.0,88.0,150,59192,59
-Binghatti Developers Fze,binghatti-developers-fze,https://datadubai.ae/developers/binghatti-developers-fze/,1051,14057,ok,1150000.0,1877.26,2.1,-12.9,89.6,80,48180,37
-Emaar Development P.J.S.C.,emaar-development-p-j-s-c,https://datadubai.ae/developers/emaar-development-p-j-s-c/,1211,6087,ok,4631388.0,2232.55,27.2,-33.5,38.2,113,42383,55
+Azizi Developments L.L.C,azizi-developments-l-l-c,https://datadubai.ae/developers/azizi-developments-l-l-c/,1002,16358,ok,673000.0,1705.85,1.6,162.0,88.0,150,59190,59
+Binghatti Developers Fze,binghatti-developers-fze,https://datadubai.ae/developers/binghatti-developers-fze/,1051,14057,ok,1150000.0,1877.26,2.1,-12.9,89.6,81,50573,38
+Emaar Development P.J.S.C.,emaar-development-p-j-s-c,https://datadubai.ae/developers/emaar-development-p-j-s-c/,1211,6087,ok,4629388.0,2232.55,27.2,-33.5,38.2,113,42383,55
 Sobha L.L.C,sobha-l-l-c,https://datadubai.ae/developers/sobha-l-l-c/,966,5868,ok,2103319.0,2545.0,13.1,-46.4,79.4,46,38610,29
-Danube Properties Development L.L.C,danube-properties-development-l-l-c,https://datadubai.ae/developers/danube-properties-development-l-l-c/,1009,4559,ok,1461000.0,2248.3,15.2,-1.8,84.4,42,27520,23
+Danube Properties Development L.L.C,danube-properties-development-l-l-c,https://datadubai.ae/developers/danube-properties-development-l-l-c/,1009,4559,ok,1460425.0,2248.3,15.2,-1.8,84.4,42,27520,23
 Damac Prime Development L.L.C,damac-prime-development-l-l-c,https://datadubai.ae/developers/damac-prime-development-l-l-c/,2464,3653,ok,2903000.0,1821.93,,,99.4,10,4655,10
 Island Oasis Properties,island-oasis-properties,https://datadubai.ae/developers/island-oasis-properties/,921,3244,ok,1294040.0,1810.9,4.3,32.6,64.6,36,16241,27
 Dubai Creek Harbour L.L.C,dubai-creek-harbour-l-l-c,https://datadubai.ae/developers/dubai-creek-harbour-l-l-c/,1224,2958,ok,2550000.0,2594.91,6.1,36.8,86.6,27,9840,15
 Dubai Hills Estate L.L.C,dubai-hills-estate-l-l-c,https://datadubai.ae/developers/dubai-hills-estate-l-l-c/,984,2181,ok,2500000.0,2401.66,0.5,-42.0,55.1,56,20678,19
 Ellington Properties Development L.L.C,ellington-properties-development-l-l-c,https://datadubai.ae/developers/ellington-properties-development-l-l-c/,1117,2176,ok,2199828.0,2262.3,14.5,87.6,86.3,34,6624,18
 Reportage Plus A Real Estate Development L.L.C,reportage-plus-a-real-estate-development-l-l-c,https://datadubai.ae/developers/reportage-plus-a-real-estate-development-l-l-c/,1936,1888,ok,1129471.0,1214.39,,,99.8,16,4248,16
-Deyaar Development (P.J.S.C),deyaar-development-p-j-s-c,https://datadubai.ae/developers/deyaar-development-p-j-s-c/,15,1825,ok,1418729.0,1421.05,10.0,-15.7,67.8,40,11819,12
+Deyaar Development (P.J.S.C),deyaar-development-p-j-s-c,https://datadubai.ae/developers/deyaar-development-p-j-s-c/,15,1825,ok,1417458.0,1421.05,10.0,-15.7,67.8,40,11819,12
 Damac Crescent Properties,damac-crescent-properties,https://datadubai.ae/developers/damac-crescent-properties/,954,1819,ok,1296000.0,1697.28,22.8,7.0,51.8,59,12013,16
 Imtiaz Ja Real Estate Development L.L.C,imtiaz-ja-real-estate-development-l-l-c,https://datadubai.ae/developers/imtiaz-ja-real-estate-development-l-l-c/,2717,1744,ok,999989.0,1762.22,,,99.9,4,2209,4
 Nshama Properties Owned By Nshmi Development One Person Company L.L.C,nshama-properties-owned-by-nshmi-development-one-person-company-l-l-c,https://datadubai.ae/developers/nshama-properties-owned-by-nshmi-development-one-person-company-l-l-c/,1162,1651,ok,1450000.0,1591.54,11.2,-23.3,65.6,38,9188,22
@@ -20,13 +20,13 @@ Samana International Real Estate Development L.L.C,samana-international-real-est
 Tiger Properties,tiger-properties,https://datadubai.ae/developers/tiger-properties/,581,1493,ok,824285.0,1490.32,6.4,-54.0,69.7,26,12252,8
 Emaar Properties (P.J.S.C),emaar-properties-p-j-s-c,https://datadubai.ae/developers/emaar-properties-p-j-s-c/,555,1286,ok,3750000.0,2100.59,3.1,-27.0,5.8,68,18963,15
 Front Line Investment Management L.L.C,front-line-investment-management-l-l-c,https://datadubai.ae/developers/front-line-investment-management-l-l-c/,1021,1257,ok,1655500.0,1140.05,-3.7,-63.9,4.9,46,16505,13
-Dubai South Properties Dwc Llc,dubai-south-properties-dwc-llc,https://datadubai.ae/developers/dubai-south-properties-dwc-llc/,1142,1188,ok,4362414.5,1340.75,5.7,7.0,80.0,34,6012,21
+Dubai South Properties Dwc Llc,dubai-south-properties-dwc-llc,https://datadubai.ae/developers/dubai-south-properties-dwc-llc/,1142,1188,ok,4362414.5,1340.75,5.7,7.0,80.0,34,6012,20
 Jag Development L.L.C,jag-development-l-l-c,https://datadubai.ae/developers/jag-development-l-l-c/,1233,1179,ok,1635500.0,1558.2,19.6,33.2,94.1,15,4678,12
-Iman Developers L.L.C,iman-developers-l-l-c,https://datadubai.ae/developers/iman-developers-l-l-c/,1178,1174,ok,1274940.0,1700.04,1.6,-21.9,88.2,17,4614,9
+Iman Developers L.L.C,iman-developers-l-l-c,https://datadubai.ae/developers/iman-developers-l-l-c/,1178,1174,ok,1274940.0,1700.04,1.6,-21.9,88.2,18,4776,10
 Select Global Development L.L.C,select-global-development-l-l-c,https://datadubai.ae/developers/select-global-development-l-l-c/,972,1170,ok,2100000.0,2648.76,1.9,7.7,50.1,19,8312,5
 Dwtc Emaar L.L.C,dwtc-emaar-l-l-c,https://datadubai.ae/developers/dwtc-emaar-l-l-c/,1237,1077,ok,1682888.0,2154.54,3.2,10.2,100.0,3,2389,3
 The Lagoons Phase One L.L.C,the-lagoons-phase-one-l-l-c,https://datadubai.ae/developers/the-lagoons-phase-one-l-l-c/,1038,1013,ok,2700000.0,2397.32,3.5,-27.1,13.1,21,10494,2
-Reportage Prime Properties L.L.C,reportage-prime-properties-l-l-c,https://datadubai.ae/developers/reportage-prime-properties-l-l-c/,1277,959,ok,1621598.0,1426.18,4.2,-33.3,96.4,10,5196,9
+Reportage Prime Properties L.L.C,reportage-prime-properties-l-l-c,https://datadubai.ae/developers/reportage-prime-properties-l-l-c/,1277,959,ok,1621598.0,1425.95,4.2,-33.3,96.4,10,5196,9
 Hre Real Estate Development L.L.C,hre-real-estate-development-l-l-c,https://datadubai.ae/developers/hre-real-estate-development-l-l-c/,1669,925,ok,1334795.0,1661.67,1.2,-56.3,98.2,6,5580,5
 Samana Signature Real Estate Developments L.L.C,samana-signature-real-estate-developments-l-l-c,https://datadubai.ae/developers/samana-signature-real-estate-developments-l-l-c/,1598,922,ok,1111494.0,1683.22,7.7,-51.2,100.0,12,4236,12
 Aurora Spv 3 L.L.C,aurora-spv-3-l-l-c,https://datadubai.ae/developers/aurora-spv-3-l-l-c/,1657,887,ok,2218309.0,1638.35,7.0,37.3,92.3,6,2735,6
@@ -34,7 +34,7 @@ Ellington Pcfc Developers L.L.C,ellington-pcfc-developers-l-l-c,https://dataduba
 Clear Vision Real Estate Development L.L.C,clear-vision-real-estate-development-l-l-c,https://datadubai.ae/developers/clear-vision-real-estate-development-l-l-c/,1806,857,ok,1080000.0,1338.2,21.5,155.8,94.0,7,1309,4
 Object One Real Estate Development L.L.C,object-one-real-estate-development-l-l-c,https://datadubai.ae/developers/object-one-real-estate-development-l-l-c/,1579,820,ok,1136724.0,1533.8,6.8,-6.8,96.7,15,4031,13
 London Gate Real Estate Development L.L.C,london-gate-real-estate-development-l-l-c,https://datadubai.ae/developers/london-gate-real-estate-development-l-l-c/,1596,750,ok,1478000.0,2416.2,-5.3,-30.2,90.8,9,2631,5
-The Palm - Jebel Ali Co. (L.L.C),the-palm-jebel-ali-co-l-l-c,https://datadubai.ae/developers/the-palm-jebel-ali-co-l-l-c/,104,714,ok,7698000.0,3512.41,,17.2,59.2,24,2056,24
+The Palm - Jebel Ali Co. (L.L.C),the-palm-jebel-ali-co-l-l-c,https://datadubai.ae/developers/the-palm-jebel-ali-co-l-l-c/,104,714,ok,7698000.0,3512.41,,17.2,59.2,25,2272,25
 Citywalk Residential 1 L.L.C,citywalk-residential-1-l-l-c,https://datadubai.ae/developers/citywalk-residential-1-l-l-c/,1109,693,ok,3500000.0,3191.24,2.6,-26.7,66.8,26,4755,10
 Imtiaz Cove Real Estate Development L.L.C,imtiaz-cove-real-estate-development-l-l-c,https://datadubai.ae/developers/imtiaz-cove-real-estate-development-l-l-c/,2275,687,ok,796971.0,1629.46,2.5,71.3,100.0,3,1125,3
 Leos Development L.L.C,leos-development-l-l-c,https://datadubai.ae/developers/leos-development-l-l-c/,1494,673,ok,1026264.0,1335.67,3.4,-5.2,94.8,8,1802,6
@@ -57,21 +57,21 @@ Peace Homes Development L.L.C,peace-homes-development-l-l-c,https://datadubai.ae
 Avenew Real Estate Development L.L.C,avenew-real-estate-development-l-l-c,https://datadubai.ae/developers/avenew-real-estate-development-l-l-c/,1511,480,ok,1470000.0,1596.77,-45.9,67.2,99.8,8,1599,8
 North Dubailand Projects L.L.C,north-dubailand-projects-l-l-c,https://datadubai.ae/developers/north-dubailand-projects-l-l-c/,1039,456,ok,3161000.0,1442.62,2.6,-66.1,29.4,20,6218,3
 Jumeirah Hills Development L.L.C,jumeirah-hills-development-l-l-c,https://datadubai.ae/developers/jumeirah-hills-development-l-l-c/,1076,450,ok,3491000.0,2793.91,1.6,34.7,65.8,11,2904,4
-Obj1 Real Estate Development L.L.C,obj1-real-estate-development-l-l-c,https://datadubai.ae/developers/obj1-real-estate-development-l-l-c/,1894,450,ok,1032746.0,1532.36,3.6,-43.7,100.0,14,2241,14
+Obj1 Real Estate Development L.L.C,obj1-real-estate-development-l-l-c,https://datadubai.ae/developers/obj1-real-estate-development-l-l-c/,1894,450,ok,1032746.0,1532.23,3.6,-43.7,100.0,14,2241,14
 Samana Platinum Real Estate Development L.L.C,samana-platinum-real-estate-development-l-l-c,https://datadubai.ae/developers/samana-platinum-real-estate-development-l-l-c/,2072,449,ok,1009152.0,1492.06,-39.8,2541.2,100.0,7,1496,7
 Damac Properties Co (L.L.C),damac-properties-co-l-l-c,https://datadubai.ae/developers/damac-properties-co-l-l-c/,260,445,ok,767789.0,855.0,2.0,-31.6,0.0,27,6006,7
 Lunaya Zaya Real Estate Development L.L.C S.O.C,lunaya-zaya-real-estate-development-l-l-c-s-o-c,https://datadubai.ae/developers/lunaya-zaya-real-estate-development-l-l-c-s-o-c/,2422,442,ok,6575000.0,2712.48,,,99.8,1,910,1
 Damac Elite Investment Co. L.L.C,damac-elite-investment-co-l-l-c,https://datadubai.ae/developers/damac-elite-investment-co-l-l-c/,2035,435,ok,3042000.0,,,-92.9,0.0,20,9930,20
 Damac Crest Development L.L.C,damac-crest-development-l-l-c,https://datadubai.ae/developers/damac-crest-development-l-l-c/,2117,414,ok,2653000.0,3183.56,2.2,-50.9,100.0,2,1661,2
 Ellington Sb Development L.L.C,ellington-sb-development-l-l-c,https://datadubai.ae/developers/ellington-sb-development-l-l-c/,2420,409,ok,1547828.0,1458.69,,,100.0,1,424,1
-Imtiaz Real Estate Investment & Development L.L.C,imtiaz-real-estate-investment-and-development-l-l-c,https://datadubai.ae/developers/imtiaz-real-estate-investment-and-development-l-l-c/,1129,404,ok,1000000.0,1647.1,9.2,-76.7,70.0,20,4333,11
+Imtiaz Real Estate & Investmentdevelopment L.L.C,imtiaz-real-estate-and-investmentdevelopment-l-l-c,https://datadubai.ae/developers/imtiaz-real-estate-and-investmentdevelopment-l-l-c/,1129,404,ok,1000000.0,1647.1,9.2,-76.7,70.0,20,4333,11
 Nshmi Development L.L.C,nshmi-development-l-l-c,https://datadubai.ae/developers/nshmi-development-l-l-c/,1063,396,ok,1300000.0,1260.69,7.4,-27.7,0.0,7,5323,0
 H M B Homes Real Estate Development,h-m-b-homes-real-estate-development,https://datadubai.ae/developers/h-m-b-homes-real-estate-development/,1220,393,ok,797742.0,1571.79,2.6,10.7,82.2,7,1632,4
 Nas Estates L.L.C,nas-estates-l-l-c,https://datadubai.ae/developers/nas-estates-l-l-c/,1762,387,ok,9547000.0,2620.21,6.3,-34.7,49.1,8,1429,8
-Park 1 L.L.C,park-1-l-l-c,https://datadubai.ae/developers/park-1-l-l-c/,1203,384,ok,2760777.0,2218.86,3.9,-59.0,72.9,7,4098,5
+Park 1 L.L.C,park-1-l-l-c,https://datadubai.ae/developers/park-1-l-l-c/,1203,384,ok,2760777.0,2218.86,3.9,-59.0,72.9,7,4098,4
 Holm Avenue Real Estate Development L.L.C,holm-avenue-real-estate-development-l-l-c,https://datadubai.ae/developers/holm-avenue-real-estate-development-l-l-c/,2428,379,ok,1108305.0,2420.5,,,100.0,3,889,3
 Mashriq Elite Real Estate Development L.L.C,mashriq-elite-real-estate-development-l-l-c,https://datadubai.ae/developers/mashriq-elite-real-estate-development-l-l-c/,1542,375,ok,1097910.0,1534.98,4.4,3.0,90.4,6,1090,5
-Majid Al Futtaim Tilal Al Ghaf Phase A L.L.C,majid-al-futtaim-tilal-al-ghaf-phase-a-l-l-c,https://datadubai.ae/developers/majid-al-futtaim-tilal-al-ghaf-phase-a-l-l-c/,1228,367,ok,7812500.0,2414.55,5.3,-26.2,7.1,9,2579,6
+Majid Al Futtaim Tilal Al Ghaf Phase A L.L.C,majid-al-futtaim-tilal-al-ghaf-phase-a-l-l-c,https://datadubai.ae/developers/majid-al-futtaim-tilal-al-ghaf-phase-a-l-l-c/,1228,367,ok,7812500.0,2414.87,5.3,-26.2,7.1,9,2579,6
 Damac Star Properties (L L C),damac-star-properties-l-l-c,https://datadubai.ae/developers/damac-star-properties-l-l-c/,907,366,ok,1420000.0,1412.01,-5.3,-21.3,0.0,12,4378,0
 Empire Crown Real Estate Development L.L.C,empire-crown-real-estate-development-l-l-c,https://datadubai.ae/developers/empire-crown-real-estate-development-l-l-c/,2046,344,ok,899777.0,1622.01,3.2,54.3,100.0,1,634,1
 Irth Urban Development L.L.C,irth-urban-development-l-l-c,https://datadubai.ae/developers/irth-urban-development-l-l-c/,2267,339,ok,3196680.0,,,,100.0,1,414,1
@@ -100,7 +100,7 @@ Boujee Real Estate Development L.L.C,boujee-real-estate-development-l-l-c,https:
 Aurora Spv 2 L.L.C,aurora-spv-2-l-l-c,https://datadubai.ae/developers/aurora-spv-2-l-l-c/,1656,256,ok,3286250.0,1790.48,,-68.3,62.1,4,1688,4
 Expo City Valley Apartments Fzco,expo-city-valley-apartments-fzco,https://datadubai.ae/developers/expo-city-valley-apartments-fzco/,2421,253,ok,2573000.0,1925.46,,,100.0,3,816,3
 Remraam L.L.C,remraam-l-l-c,https://datadubai.ae/developers/remraam-l-l-c/,41,253,ok,800000.0,943.78,7.0,-52.1,0.0,3,5517,1
-Metrical Real Estate Development L.L.C,metrical-real-estate-development-l-l-c,https://datadubai.ae/developers/metrical-real-estate-development-l-l-c/,1283,250,ok,1076766.5,1448.8,-1.5,-29.8,74.4,10,1641,3
+Metrical Real Estate Development L.L.C,metrical-real-estate-development-l-l-c,https://datadubai.ae/developers/metrical-real-estate-development-l-l-c/,1283,250,ok,1076766.5,1448.8,-1.5,-29.8,74.4,10,1641,2
 Peninsula Elit Real Estate Development L.L.C S.O.C,peninsula-elit-real-estate-development-l-l-c-s-o-c,https://datadubai.ae/developers/peninsula-elit-real-estate-development-l-l-c-s-o-c/,2551,248,ok,1305000.0,1728.28,,,100.0,1,284,1
 Palma Homes Real Estate Development L.L.C,palma-homes-real-estate-development-l-l-c,https://datadubai.ae/developers/palma-homes-real-estate-development-l-l-c/,1068,248,ok,3613000.0,2596.38,-0.1,-36.4,77.8,4,1705,2
 Tfg S C Development L.L.C,tfg-s-c-development-l-l-c,https://datadubai.ae/developers/tfg-s-c-development-l-l-c/,2084,247,ok,431489.0,,,-27.6,100.0,1,585,1
@@ -118,13 +118,13 @@ Beyond 1 Real Estate Development L.L.C,beyond-1-real-estate-development-l-l-c,ht
 The Palm - Jumeirah Co. (L.L.C),the-palm-jumeirah-co-l-l-c,https://datadubai.ae/developers/the-palm-jumeirah-co-l-l-c/,103,213,ok,3850000.0,2750.52,3.2,-36.6,27.7,12,3114,5
 Meraki Real Estate Development L.L.C,meraki-real-estate-development-l-l-c,https://datadubai.ae/developers/meraki-real-estate-development-l-l-c/,1230,212,ok,1100000.0,1311.16,6.6,-38.7,58.0,5,1160,3
 Desert Falcon Real Estate Development L.L.C,desert-falcon-real-estate-development-l-l-c,https://datadubai.ae/developers/desert-falcon-real-estate-development-l-l-c/,1259,211,ok,1323834.0,1668.64,,,100.0,3,810,2
-Gfh Real Estate L.L.C,gfh-real-estate-l-l-c,https://datadubai.ae/developers/gfh-real-estate-l-l-c/,1199,211,ok,1640994.0,1424.31,-0.2,298.1,97.6,2,584,2
+Gfh Real Estate L.L.C,gfh-real-estate-l-l-c,https://datadubai.ae/developers/gfh-real-estate-l-l-c/,1199,211,ok,1640994.0,1424.31,-0.2,298.1,97.6,2,488,2
 Gulf General Investments Co. (P.S.C),gulf-general-investments-co-p-s-c,https://datadubai.ae/developers/gulf-general-investments-co-p-s-c/,285,208,ok,735000.0,767.25,3.1,-36.4,0.0,24,3330,4
 Imtiaz Gi Real Estate Development L.L.C,imtiaz-gi-real-estate-development-l-l-c,https://datadubai.ae/developers/imtiaz-gi-real-estate-development-l-l-c/,2323,206,ok,2272961.0,2331.21,2.0,190.1,100.0,2,311,2
 Takmeel Real Estate Development L.L.C,takmeel-real-estate-development-l-l-c,https://datadubai.ae/developers/takmeel-real-estate-development-l-l-c/,1520,203,ok,1111000.0,1381.08,26.3,217.2,84.7,4,568,2
-Estate Grand Real Estate Development L.L.C,estate-grand-real-estate-development-l-l-c,https://datadubai.ae/developers/estate-grand-real-estate-development-l-l-c/,1720,200,ok,6655920.0,4648.16,,146.9,100.0,1,552,1
+Estate Grand Real Estate Development L.L.C,estate-grand-real-estate-development-l-l-c,https://datadubai.ae/developers/estate-grand-real-estate-development-l-l-c/,1720,200,ok,6651840.0,4648.16,,146.9,100.0,1,552,1
 Aurora Spv 1 L.L.C,aurora-spv-1-l-l-c,https://datadubai.ae/developers/aurora-spv-1-l-l-c/,1658,199,ok,3100000.0,1468.35,2.9,-82.4,81.9,5,2275,5
-Al Mazaya Real Estate Fz-Llc,al-mazaya-real-estate-fz-llc,https://datadubai.ae/developers/al-mazaya-real-estate-fz-llc/,903,199,ok,592500.0,734.2,3.9,-19.8,0.0,33,2699,0
+Al Mazaya Real Estate Fz-Llc,al-mazaya-real-estate-fz-llc,https://datadubai.ae/developers/al-mazaya-real-estate-fz-llc/,903,199,ok,592500.0,736.24,4.2,-19.8,0.0,33,2699,0
 Alfurjan ( L.L.C ),alfurjan-l-l-c,https://datadubai.ae/developers/alfurjan-l-l-c/,121,196,ok,5981250.0,,,-59.9,0.0,8,2771,0
 Samana World Real Estate Development L.L.C,samana-world-real-estate-development-l-l-c,https://datadubai.ae/developers/samana-world-real-estate-development-l-l-c/,1933,194,ok,1036440.0,1513.5,-1.3,-45.0,100.0,1,556,1
 Eden Hills L.L.C,eden-hills-l-l-c,https://datadubai.ae/developers/eden-hills-l-l-c/,1498,194,ok,22210000.0,,,,0.0,1,281,1
@@ -174,7 +174,7 @@ Imtiaz South Real Estate Development L.L.C,imtiaz-south-real-estate-development-
 Rabdan Real Estate Development L.L.C,rabdan-real-estate-development-l-l-c,https://datadubai.ae/developers/rabdan-real-estate-development-l-l-c/,1533,129,ok,1230008.0,1188.52,-14.7,-81.8,93.8,4,1139,2
 Yangtze International Real Estate Developer L.L.C,yangtze-international-real-estate-developer-l-l-c,https://datadubai.ae/developers/yangtze-international-real-estate-developer-l-l-c/,2328,128,ok,865888.0,1189.16,,,100.0,2,554,2
 Alseeb Real Estate Development L.L.C,alseeb-real-estate-development-l-l-c,https://datadubai.ae/developers/alseeb-real-estate-development-l-l-c/,1014,128,ok,1561850.0,1802.85,-5.5,-48.6,46.9,8,1040,3
-H & H Development L.L.C,h-and-h-development-l-l-c,https://datadubai.ae/developers/h-and-h-development-l-l-c/,1751,127,ok,8111103.0,3887.22,-4.0,-48.6,81.9,2,566,1
+H & H Development L.L.C,h-and-h-development-l-l-c,https://datadubai.ae/developers/h-and-h-development-l-l-c/,1751,127,ok,8111103.0,3884.07,-4.1,-48.6,81.9,2,566,1
 Tomorrow World Real Estate Development L.L.C,tomorrow-world-real-estate-development-l-l-c,https://datadubai.ae/developers/tomorrow-world-real-estate-development-l-l-c/,1977,127,ok,1984000.0,2075.28,,429.2,100.0,4,449,4
 Namaa Properties Development L.L.C,namaa-properties-development-l-l-c,https://datadubai.ae/developers/namaa-properties-development-l-l-c/,965,127,ok,1075000.0,2130.38,-5.6,-28.7,0.0,2,1855,0
 Barari Three Real Estate Development L.L.C,barari-three-real-estate-development-l-l-c,https://datadubai.ae/developers/barari-three-real-estate-development-l-l-c/,1740,126,ok,5576167.0,2940.35,,,100.0,1,286,1
@@ -221,7 +221,7 @@ Al Qudra Estates L.L.C,al-qudra-estates-l-l-c,https://datadubai.ae/developers/al
 Diamond  Developers Co.Limited,diamond-developers-co-limited,https://datadubai.ae/developers/diamond-developers-co-limited/,6,100,ok,705000.0,980.95,5.6,-23.7,0.0,12,1153,0
 One Yard Real Estate Development L.L.C,one-yard-real-estate-development-l-l-c,https://datadubai.ae/developers/one-yard-real-estate-development-l-l-c/,1626,98,ok,1050000.0,1464.57,3.1,292.0,100.0,1,191,1
 Majid Developments L.L.C,majid-developments-l-l-c,https://datadubai.ae/developers/majid-developments-l-l-c/,1655,98,ok,755268.0,1594.58,-1.9,-17.6,100.0,3,333,3
-Mag 10 Property Development Dmcc,mag-10-property-development-dmcc,https://datadubai.ae/developers/mag-10-property-development-dmcc/,2159,97,ok,1561875.0,2413.55,7.1,-26.5,100.0,1,463,1
+Mag 10 Property Development Dmcc,mag-10-property-development-dmcc,https://datadubai.ae/developers/mag-10-property-development-dmcc/,2159,97,ok,1561875.0,2402.74,6.6,-26.5,100.0,1,463,1
 Damac World Real Estate L.L.C,damac-world-real-estate-l-l-c,https://datadubai.ae/developers/damac-world-real-estate-l-l-c/,1095,97,ok,1092000.0,1796.76,-10.8,-48.4,0.0,3,1711,0
 Rs Realty Fz - L.L.C,rs-realty-fz-l-l-c,https://datadubai.ae/developers/rs-realty-fz-l-l-c/,973,96,ok,452598.5,731.51,0.7,300.0,0.0,1,406,0
 Vincitore Luxury Real Estate Development L.L.C,vincitore-luxury-real-estate-development-l-l-c,https://datadubai.ae/developers/vincitore-luxury-real-estate-development-l-l-c/,1949,96,ok,1401500.0,1787.82,3.2,-68.9,100.0,1,546,1
@@ -298,8 +298,8 @@ Dar Global Properties L.L.C,dar-global-properties-l-l-c,https://datadubai.ae/dev
 Pan Global Development L.L.C,pan-global-development-l-l-c,https://datadubai.ae/developers/pan-global-development-l-l-c/,985,66,ok,595332.0,922.88,13.5,-38.9,0.0,4,800,1
 Consolidated Urban Real Estate Development Co. L.L.C,consolidated-urban-real-estate-development-co-l-l-c,https://datadubai.ae/developers/consolidated-urban-real-estate-development-co-l-l-c/,1060,64,ok,595000.0,1011.56,-1.5,-37.3,0.0,1,346,0
 Art House Hills Residences Development L.L.C,art-house-hills-residences-development-l-l-c,https://datadubai.ae/developers/art-house-hills-residences-development-l-l-c/,2530,64,ok,1372392.0,1787.16,,,100.0,1,328,1
-Ary & Maz Development L.L.C,ary-and-maz-development-l-l-c,https://datadubai.ae/developers/ary-and-maz-development-l-l-c/,2353,64,ok,1046400.0,1557.99,,,100.0,1,225,1
 M A S Real Estate Development L.L.C,m-a-s-real-estate-development-l-l-c,https://datadubai.ae/developers/m-a-s-real-estate-development-l-l-c/,1924,64,ok,2801628.0,1800.0,,,100.0,1,242,1
+Ary & Maz Development L.L.C,ary-and-maz-development-l-l-c,https://datadubai.ae/developers/ary-and-maz-development-l-l-c/,2353,64,ok,1046400.0,1557.99,,,100.0,1,225,1
 Unique Saray Properties L.L.C,unique-saray-properties-l-l-c,https://datadubai.ae/developers/unique-saray-properties-l-l-c/,2055,64,ok,710912.5,1351.95,,,100.0,1,121,1
 Amwaj Alkhaleej Real Estate Development L.L.C,amwaj-alkhaleej-real-estate-development-l-l-c,https://datadubai.ae/developers/amwaj-alkhaleej-real-estate-development-l-l-c/,1710,64,ok,1819433.0,1827.02,4.1,-52.2,100.0,2,243,2
 Vincitore Real Estate Development L.L.C,vincitore-real-estate-development-l-l-c,https://datadubai.ae/developers/vincitore-real-estate-development-l-l-c/,1118,64,ok,934000.0,1416.38,-1.1,-48.0,0.0,3,846,0

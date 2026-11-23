@@ -1,30 +1,30 @@
 community,community_slug,code,label,slug,n,quality,price_median,psf_median,sqft_median,rent_median,n_rents,yield_pct,url
 Dubai World Central,dubai-world-central,Studio,Studios,studio,6388,ok,650000.0,1766.82,365.33,54000.0,55,,https://datadubai.ae/communities/dubai-world-central/studio/
 Dubai World Central,dubai-world-central,1 B/R,1-bedroom apartments,1-bedroom,3400,ok,1180000.0,1607.81,733.56,66000.0,232,,https://datadubai.ae/communities/dubai-world-central/1-bedroom/
-Dubai World Central,dubai-world-central,2 B/R,2-bedroom apartments,2-bedroom,1365,ok,2003888.0,1694.58,1153.68,85000.0,704,5.48,https://datadubai.ae/communities/dubai-world-central/2-bedroom/
+Dubai World Central,dubai-world-central,2 B/R,2-bedroom apartments,2-bedroom,1365,ok,2003888.0,1694.58,1153.68,85000.0,706,5.48,https://datadubai.ae/communities/dubai-world-central/2-bedroom/
 Dubai World Central,dubai-world-central,3 B/R,3-bedroom apartments,3-bedroom,465,ok,2755000.0,1577.14,1749.46,107000.0,1180,4.76,https://datadubai.ae/communities/dubai-world-central/3-bedroom/
-Dubai World Central,dubai-world-central,4 B/R,4-bedroom apartments,4-bedroom,388,ok,4600000.0,1294.06,3422.17,145000.0,449,4.53,https://datadubai.ae/communities/dubai-world-central/4-bedroom/
+Dubai World Central,dubai-world-central,4 B/R,4-bedroom apartments,4-bedroom,388,ok,4600000.0,1294.06,3422.17,145000.0,450,4.53,https://datadubai.ae/communities/dubai-world-central/4-bedroom/
 Dubai World Central,dubai-world-central,5 B/R,5-bedroom apartments,5-bedroom,247,ok,5980000.0,1373.27,4176.61,240000.0,9,,https://datadubai.ae/communities/dubai-world-central/5-bedroom/
-Jumeirah Village Circle,jumeirah-village-circle,Studio,Studios,studio,3433,ok,714997.0,1718.19,410.75,48000.0,7735,7.8,https://datadubai.ae/communities/jumeirah-village-circle/studio/
-Jumeirah Village Circle,jumeirah-village-circle,1 B/R,1-bedroom apartments,1-bedroom,5860,ok,1107757.0,1426.11,785.23,70000.0,15726,7.0,https://datadubai.ae/communities/jumeirah-village-circle/1-bedroom/
-Jumeirah Village Circle,jumeirah-village-circle,2 B/R,2-bedroom apartments,2-bedroom,1479,ok,1653858.5,1309.25,1237.2,95000.0,4672,6.33,https://datadubai.ae/communities/jumeirah-village-circle/2-bedroom/
+Jumeirah Village Circle,jumeirah-village-circle,Studio,Studios,studio,3433,ok,714997.0,1717.87,410.75,48000.0,7751,7.8,https://datadubai.ae/communities/jumeirah-village-circle/studio/
+Jumeirah Village Circle,jumeirah-village-circle,1 B/R,1-bedroom apartments,1-bedroom,5860,ok,1107757.0,1426.11,785.23,70000.0,15762,7.0,https://datadubai.ae/communities/jumeirah-village-circle/1-bedroom/
+Jumeirah Village Circle,jumeirah-village-circle,2 B/R,2-bedroom apartments,2-bedroom,1479,ok,1653858.5,1309.25,1237.2,95000.0,4686,6.33,https://datadubai.ae/communities/jumeirah-village-circle/2-bedroom/
 Jumeirah Village Circle,jumeirah-village-circle,3 B/R,3-bedroom apartments,3-bedroom,264,ok,2424550.0,1577.79,1559.48,150000.0,906,5.85,https://datadubai.ae/communities/jumeirah-village-circle/3-bedroom/
 Jumeirah Village Circle,jumeirah-village-circle,4 B/R,4-bedroom apartments,4-bedroom,99,ok,3350000.0,1617.06,1856.77,200000.0,379,6.11,https://datadubai.ae/communities/jumeirah-village-circle/4-bedroom/
 Jumeirah Village Circle,jumeirah-village-circle,5 B/R,5-bedroom apartments,5-bedroom,2,insufficient,,,,200000.0,36,,
-Dubai Land Residence Complex,dubai-land-residence-complex,Studio,Studios,studio,2982,ok,693714.0,1599.38,428.57,38000.0,1877,8.84,https://datadubai.ae/communities/dubai-land-residence-complex/studio/
-Dubai Land Residence Complex,dubai-land-residence-complex,1 B/R,1-bedroom apartments,1-bedroom,2396,ok,1041045.0,1302.65,799.54,51000.0,3483,7.91,https://datadubai.ae/communities/dubai-land-residence-complex/1-bedroom/
-Dubai Land Residence Complex,dubai-land-residence-complex,2 B/R,2-bedroom apartments,2-bedroom,935,ok,1437205.5,1175.04,1244.85,65000.0,1879,7.1,https://datadubai.ae/communities/dubai-land-residence-complex/2-bedroom/
+Dubai Land Residence Complex,dubai-land-residence-complex,Studio,Studios,studio,2982,ok,693714.0,1599.38,428.57,38000.0,1880,8.84,https://datadubai.ae/communities/dubai-land-residence-complex/studio/
+Dubai Land Residence Complex,dubai-land-residence-complex,1 B/R,1-bedroom apartments,1-bedroom,2396,ok,1041045.0,1302.65,799.54,51000.0,3490,7.91,https://datadubai.ae/communities/dubai-land-residence-complex/1-bedroom/
+Dubai Land Residence Complex,dubai-land-residence-complex,2 B/R,2-bedroom apartments,2-bedroom,935,ok,1437205.5,1175.04,1244.85,65000.0,1884,7.1,https://datadubai.ae/communities/dubai-land-residence-complex/2-bedroom/
 Dubai Land Residence Complex,dubai-land-residence-complex,3 B/R,3-bedroom apartments,3-bedroom,164,ok,1811388.0,1160.65,1528.37,91888.0,139,,https://datadubai.ae/communities/dubai-land-residence-complex/3-bedroom/
 Dubai Land Residence Complex,dubai-land-residence-complex,4 B/R,4-bedroom apartments,4-bedroom,1,insufficient,,,,,1,,
-Business Bay,business-bay,Studio,Studios,studio,1201,ok,1150000.0,2499.99,462.15,65000.0,4213,6.43,https://datadubai.ae/communities/business-bay/studio/
-Business Bay,business-bay,1 B/R,1-bedroom apartments,1-bedroom,2081,ok,1881057.5,2302.44,824.84,85000.0,6962,5.86,https://datadubai.ae/communities/business-bay/1-bedroom/
-Business Bay,business-bay,2 B/R,2-bedroom apartments,2-bedroom,1097,ok,2700000.0,2146.29,1387.95,129235.0,3126,5.74,https://datadubai.ae/communities/business-bay/2-bedroom/
-Business Bay,business-bay,3 B/R,3-bedroom apartments,3-bedroom,293,ok,4000000.0,1948.28,1949.02,189999.0,743,5.68,https://datadubai.ae/communities/business-bay/3-bedroom/
+Business Bay,business-bay,Studio,Studios,studio,1201,ok,1150000.0,2499.99,462.15,65000.0,4221,6.43,https://datadubai.ae/communities/business-bay/studio/
+Business Bay,business-bay,1 B/R,1-bedroom apartments,1-bedroom,2081,ok,1881057.5,2302.44,824.84,85000.0,6973,5.86,https://datadubai.ae/communities/business-bay/1-bedroom/
+Business Bay,business-bay,2 B/R,2-bedroom apartments,2-bedroom,1097,ok,2700000.0,2146.29,1387.95,129554.95,3128,5.76,https://datadubai.ae/communities/business-bay/2-bedroom/
+Business Bay,business-bay,3 B/R,3-bedroom apartments,3-bedroom,293,ok,4000000.0,1948.28,1949.02,189999.5,744,5.68,https://datadubai.ae/communities/business-bay/3-bedroom/
 Business Bay,business-bay,4 B/R,4-bedroom apartments,4-bedroom,57,ok,6000000.0,1904.4,4229.46,300000.0,84,5.61,https://datadubai.ae/communities/business-bay/4-bedroom/
 Business Bay,business-bay,5 B/R,5-bedroom apartments,5-bedroom,2,insufficient,,,,,2,,
-Majan,majan,Studio,Studios,studio,3557,ok,692999.0,1809.68,401.17,39260.0,612,7.66,https://datadubai.ae/communities/majan/studio/
-Majan,majan,1 B/R,1-bedroom apartments,1-bedroom,1765,ok,1100000.0,1374.88,794.91,58000.0,1434,7.25,https://datadubai.ae/communities/majan/1-bedroom/
-Majan,majan,2 B/R,2-bedroom apartments,2-bedroom,632,ok,1550000.0,1228.23,1268.15,80000.0,779,6.57,https://datadubai.ae/communities/majan/2-bedroom/
+Majan,majan,Studio,Studios,studio,3557,ok,692999.0,1809.68,401.17,39520.0,613,7.72,https://datadubai.ae/communities/majan/studio/
+Majan,majan,1 B/R,1-bedroom apartments,1-bedroom,1765,ok,1100000.0,1374.88,794.91,58000.0,1437,7.25,https://datadubai.ae/communities/majan/1-bedroom/
+Majan,majan,2 B/R,2-bedroom apartments,2-bedroom,632,ok,1550000.0,1228.23,1268.15,80000.0,782,6.57,https://datadubai.ae/communities/majan/2-bedroom/
 Majan,majan,3 B/R,3-bedroom apartments,3-bedroom,69,ok,2132052.0,1149.93,1848.81,115000.0,37,,https://datadubai.ae/communities/majan/3-bedroom/
 Majan,majan,4 B/R,4-bedroom apartments,4-bedroom,9,low,2781100.0,1326.87,2023.94,,0,,
 Majan,majan,5 B/R,5-bedroom apartments,5-bedroom,1,insufficient,,,,,1,,
@@ -34,46 +34,46 @@ Palm Deira,palm-deira,2 B/R,2-bedroom apartments,2-bedroom,1826,ok,3480676.5,272
 Palm Deira,palm-deira,3 B/R,3-bedroom apartments,3-bedroom,552,ok,5591859.0,2840.11,1815.17,,1,,https://datadubai.ae/communities/palm-deira/3-bedroom/
 Palm Deira,palm-deira,4 B/R,4-bedroom apartments,4-bedroom,71,ok,7311742.5,2582.66,3148.98,,0,,https://datadubai.ae/communities/palm-deira/4-bedroom/
 Palm Deira,palm-deira,5 B/R,5-bedroom apartments,5-bedroom,3,insufficient,,,,,0,,
-Dubai Creek Harbour,dubai-creek-harbour,1 B/R,1-bedroom apartments,1-bedroom,1666,ok,1960388.0,2603.54,755.84,95000.0,2482,5.51,https://datadubai.ae/communities/dubai-creek-harbour/1-bedroom/
-Dubai Creek Harbour,dubai-creek-harbour,2 B/R,2-bedroom apartments,2-bedroom,1698,ok,3156888.0,2501.72,1216.32,145000.0,2581,5.47,https://datadubai.ae/communities/dubai-creek-harbour/2-bedroom/
+Dubai Creek Harbour,dubai-creek-harbour,1 B/R,1-bedroom apartments,1-bedroom,1666,ok,1960388.0,2603.54,755.84,95000.0,2490,5.51,https://datadubai.ae/communities/dubai-creek-harbour/1-bedroom/
+Dubai Creek Harbour,dubai-creek-harbour,2 B/R,2-bedroom apartments,2-bedroom,1698,ok,3156888.0,2501.72,1216.32,145000.0,2586,5.47,https://datadubai.ae/communities/dubai-creek-harbour/2-bedroom/
 Dubai Creek Harbour,dubai-creek-harbour,3 B/R,3-bedroom apartments,3-bedroom,581,ok,4327888.0,2385.07,1835.25,210000.0,955,5.25,https://datadubai.ae/communities/dubai-creek-harbour/3-bedroom/
 Dubai Creek Harbour,dubai-creek-harbour,4 B/R,4-bedroom apartments,4-bedroom,25,ok,7009888.0,2723.83,2987.52,420000.0,32,,https://datadubai.ae/communities/dubai-creek-harbour/4-bedroom/
 Dubai Creek Harbour,dubai-creek-harbour,5 B/R,5-bedroom apartments,5-bedroom,1,insufficient,,,,,0,,
-Arjan,arjan,Studio,Studios,studio,1671,ok,730000.0,1726.78,429.16,45637.5,4252,7.74,https://datadubai.ae/communities/arjan/studio/
-Arjan,arjan,1 B/R,1-bedroom apartments,1-bedroom,1397,ok,1185999.5,1540.07,774.03,68000.0,4805,6.8,https://datadubai.ae/communities/arjan/1-bedroom/
-Arjan,arjan,2 B/R,2-bedroom apartments,2-bedroom,500,ok,1680000.0,1381.82,1221.6,93500.0,2377,6.45,https://datadubai.ae/communities/arjan/2-bedroom/
-Arjan,arjan,3 B/R,3-bedroom apartments,3-bedroom,75,ok,2323427.0,1240.93,1780.78,150000.0,190,7.14,https://datadubai.ae/communities/arjan/3-bedroom/
+Arjan,arjan,Studio,Studios,studio,1671,ok,730000.0,1726.78,429.16,45600.0,4265,7.73,https://datadubai.ae/communities/arjan/studio/
+Arjan,arjan,1 B/R,1-bedroom apartments,1-bedroom,1397,ok,1185999.5,1540.07,774.03,68000.0,4823,6.8,https://datadubai.ae/communities/arjan/1-bedroom/
+Arjan,arjan,2 B/R,2-bedroom apartments,2-bedroom,500,ok,1680000.0,1381.82,1221.6,93500.0,2389,6.45,https://datadubai.ae/communities/arjan/2-bedroom/
+Arjan,arjan,3 B/R,3-bedroom apartments,3-bedroom,75,ok,2323427.0,1240.93,1780.78,150000.0,191,7.14,https://datadubai.ae/communities/arjan/3-bedroom/
 Arjan,arjan,4 B/R,4-bedroom apartments,4-bedroom,1,insufficient,,,,,0,,
-Jumeirah Village Triangle,jumeirah-village-triangle,Studio,Studios,studio,1153,ok,779346.5,1923.6,389.12,45000.0,910,7.83,https://datadubai.ae/communities/jumeirah-village-triangle/studio/
-Jumeirah Village Triangle,jumeirah-village-triangle,1 B/R,1-bedroom apartments,1-bedroom,1798,ok,1223900.0,1618.63,746.26,69477.0,1287,7.16,https://datadubai.ae/communities/jumeirah-village-triangle/1-bedroom/
+Jumeirah Village Triangle,jumeirah-village-triangle,Studio,Studios,studio,1153,ok,779346.5,1923.6,389.12,45000.0,929,7.83,https://datadubai.ae/communities/jumeirah-village-triangle/studio/
+Jumeirah Village Triangle,jumeirah-village-triangle,1 B/R,1-bedroom apartments,1-bedroom,1798,ok,1223900.0,1618.63,746.26,69806.09,1299,7.2,https://datadubai.ae/communities/jumeirah-village-triangle/1-bedroom/
 Jumeirah Village Triangle,jumeirah-village-triangle,2 B/R,2-bedroom apartments,2-bedroom,532,ok,1715385.5,1440.46,1193.72,85000.0,454,5.31,https://datadubai.ae/communities/jumeirah-village-triangle/2-bedroom/
 Jumeirah Village Triangle,jumeirah-village-triangle,3 B/R,3-bedroom apartments,3-bedroom,64,ok,2799999.5,1528.07,1825.02,180000.0,80,6.92,https://datadubai.ae/communities/jumeirah-village-triangle/3-bedroom/
-Jumeirah Village Triangle,jumeirah-village-triangle,4 B/R,4-bedroom apartments,4-bedroom,12,low,3975000.0,1720.67,2307.78,230000.0,21,,
+Jumeirah Village Triangle,jumeirah-village-triangle,4 B/R,4-bedroom apartments,4-bedroom,12,low,3975000.0,1720.67,2307.78,225000.0,23,,
 Down Town Jabal Ali,down-town-jabal-ali,Studio,Studios,studio,1938,ok,617580.0,1741.88,387.29,45000.0,458,8.26,https://datadubai.ae/communities/down-town-jabal-ali/studio/
-Down Town Jabal Ali,down-town-jabal-ali,1 B/R,1-bedroom apartments,1-bedroom,952,ok,1078250.0,1526.79,680.17,58000.0,391,9.28,https://datadubai.ae/communities/down-town-jabal-ali/1-bedroom/
+Down Town Jabal Ali,down-town-jabal-ali,1 B/R,1-bedroom apartments,1-bedroom,952,ok,1078250.0,1526.79,680.17,58000.0,393,9.28,https://datadubai.ae/communities/down-town-jabal-ali/1-bedroom/
 Down Town Jabal Ali,down-town-jabal-ali,2 B/R,2-bedroom apartments,2-bedroom,264,ok,1608365.0,1437.12,1119.88,79000.0,91,,https://datadubai.ae/communities/down-town-jabal-ali/2-bedroom/
 Down Town Jabal Ali,down-town-jabal-ali,3 B/R,3-bedroom apartments,3-bedroom,68,ok,2000902.5,1323.32,1531.49,90000.0,30,,https://datadubai.ae/communities/down-town-jabal-ali/3-bedroom/
 Down Town Jabal Ali,down-town-jabal-ali,4 B/R,4-bedroom apartments,4-bedroom,1,insufficient,,,,,1,,
 Motor City,motor-city,Studio,Studios,studio,1031,ok,811999.0,2029.48,415.59,52000.0,181,8.0,https://datadubai.ae/communities/motor-city/studio/
-Motor City,motor-city,1 B/R,1-bedroom apartments,1-bedroom,1632,ok,1134540.5,1672.31,769.73,72000.0,887,7.66,https://datadubai.ae/communities/motor-city/1-bedroom/
+Motor City,motor-city,1 B/R,1-bedroom apartments,1-bedroom,1632,ok,1134540.5,1672.31,769.73,72000.0,888,7.66,https://datadubai.ae/communities/motor-city/1-bedroom/
 Motor City,motor-city,2 B/R,2-bedroom apartments,2-bedroom,655,ok,1900000.0,1610.0,1178.86,115000.0,571,7.82,https://datadubai.ae/communities/motor-city/2-bedroom/
-Motor City,motor-city,3 B/R,3-bedroom apartments,3-bedroom,112,ok,2640000.0,1097.87,2231.47,180000.0,203,7.5,https://datadubai.ae/communities/motor-city/3-bedroom/
+Motor City,motor-city,3 B/R,3-bedroom apartments,3-bedroom,112,ok,2640000.0,1097.87,2231.47,180000.0,204,7.5,https://datadubai.ae/communities/motor-city/3-bedroom/
 Motor City,motor-city,4 B/R,4-bedroom apartments,4-bedroom,52,ok,4531341.5,1084.03,3941.37,270000.0,39,6.09,https://datadubai.ae/communities/motor-city/4-bedroom/
 Motor City,motor-city,5 B/R,5-bedroom apartments,5-bedroom,2,insufficient,,,,450000.0,12,,
-Dubai Sports City,dubai-sports-city,Studio,Studios,studio,972,ok,616844.0,1404.14,427.22,40000.0,3489,8.42,https://datadubai.ae/communities/dubai-sports-city/studio/
-Dubai Sports City,dubai-sports-city,1 B/R,1-bedroom apartments,1-bedroom,970,ok,1017520.0,1270.86,788.35,56000.0,3318,7.89,https://datadubai.ae/communities/dubai-sports-city/1-bedroom/
-Dubai Sports City,dubai-sports-city,2 B/R,2-bedroom apartments,2-bedroom,761,ok,1581570.0,1302.31,1203.41,80000.0,1381,7.35,https://datadubai.ae/communities/dubai-sports-city/2-bedroom/
+Dubai Sports City,dubai-sports-city,Studio,Studios,studio,972,ok,616844.0,1404.14,427.22,40000.0,3495,8.42,https://datadubai.ae/communities/dubai-sports-city/studio/
+Dubai Sports City,dubai-sports-city,1 B/R,1-bedroom apartments,1-bedroom,970,ok,1017520.0,1270.86,788.35,56000.0,3329,7.89,https://datadubai.ae/communities/dubai-sports-city/1-bedroom/
+Dubai Sports City,dubai-sports-city,2 B/R,2-bedroom apartments,2-bedroom,761,ok,1581570.0,1302.31,1203.41,80000.0,1383,7.35,https://datadubai.ae/communities/dubai-sports-city/2-bedroom/
 Dubai Sports City,dubai-sports-city,3 B/R,3-bedroom apartments,3-bedroom,80,ok,2222992.0,1315.86,1631.7,108482.0,96,5.71,https://datadubai.ae/communities/dubai-sports-city/3-bedroom/
 Dubai Sports City,dubai-sports-city,4 B/R,4-bedroom apartments,4-bedroom,2,insufficient,,,,268000.0,125,,
-Dubai South Residential District,dubai-south-residential-district,Studio,Studios,studio,471,ok,555000.0,1360.5,408.28,40000.0,1221,8.15,https://datadubai.ae/communities/dubai-south-residential-district/studio/
-Dubai South Residential District,dubai-south-residential-district,1 B/R,1-bedroom apartments,1-bedroom,1165,ok,1038277.5,1411.44,780.49,52000.0,1688,6.98,https://datadubai.ae/communities/dubai-south-residential-district/1-bedroom/
-Dubai South Residential District,dubai-south-residential-district,2 B/R,2-bedroom apartments,2-bedroom,1120,ok,1535691.5,1349.93,1134.95,80000.0,994,7.14,https://datadubai.ae/communities/dubai-south-residential-district/2-bedroom/
-Dubai South Residential District,dubai-south-residential-district,3 B/R,3-bedroom apartments,3-bedroom,197,ok,2241828.0,1405.46,1509.53,145000.0,263,4.83,https://datadubai.ae/communities/dubai-south-residential-district/3-bedroom/
+Dubai South Residential District,dubai-south-residential-district,Studio,Studios,studio,471,ok,555000.0,1360.5,408.28,40000.0,1225,8.15,https://datadubai.ae/communities/dubai-south-residential-district/studio/
+Dubai South Residential District,dubai-south-residential-district,1 B/R,1-bedroom apartments,1-bedroom,1165,ok,1038277.5,1411.44,780.49,52000.0,1692,6.98,https://datadubai.ae/communities/dubai-south-residential-district/1-bedroom/
+Dubai South Residential District,dubai-south-residential-district,2 B/R,2-bedroom apartments,2-bedroom,1120,ok,1535691.5,1349.93,1134.95,80000.0,1000,7.14,https://datadubai.ae/communities/dubai-south-residential-district/2-bedroom/
+Dubai South Residential District,dubai-south-residential-district,3 B/R,3-bedroom apartments,3-bedroom,197,ok,2241828.0,1405.46,1509.53,145000.0,264,4.83,https://datadubai.ae/communities/dubai-south-residential-district/3-bedroom/
 Dubai South Residential District,dubai-south-residential-district,4 B/R,4-bedroom apartments,4-bedroom,110,ok,4180000.0,1220.33,3483.2,190000.0,239,4.52,https://datadubai.ae/communities/dubai-south-residential-district/4-bedroom/
 Dubai South Residential District,dubai-south-residential-district,5 B/R,5-bedroom apartments,5-bedroom,55,ok,5262500.0,1208.69,4219.45,250000.0,35,4.31,https://datadubai.ae/communities/dubai-south-residential-district/5-bedroom/
-International Media Production Zone,international-media-production-zone,Studio,Studios,studio,1137,ok,653400.0,1519.36,426.9,37800.0,2672,9.0,https://datadubai.ae/communities/international-media-production-zone/studio/
-International Media Production Zone,international-media-production-zone,1 B/R,1-bedroom apartments,1-bedroom,1296,ok,1067946.0,1307.09,788.03,56500.0,2622,8.67,https://datadubai.ae/communities/international-media-production-zone/1-bedroom/
-International Media Production Zone,international-media-production-zone,2 B/R,2-bedroom apartments,2-bedroom,511,ok,1560600.0,1256.56,1220.3,78992.45,930,6.93,https://datadubai.ae/communities/international-media-production-zone/2-bedroom/
+International Media Production Zone,international-media-production-zone,Studio,Studios,studio,1137,ok,653400.0,1519.36,426.9,37800.0,2676,9.0,https://datadubai.ae/communities/international-media-production-zone/studio/
+International Media Production Zone,international-media-production-zone,1 B/R,1-bedroom apartments,1-bedroom,1296,ok,1067946.0,1307.09,788.03,56500.0,2627,8.67,https://datadubai.ae/communities/international-media-production-zone/1-bedroom/
+International Media Production Zone,international-media-production-zone,2 B/R,2-bedroom apartments,2-bedroom,511,ok,1560600.0,1256.56,1220.3,79000.0,931,6.93,https://datadubai.ae/communities/international-media-production-zone/2-bedroom/
 International Media Production Zone,international-media-production-zone,3 B/R,3-bedroom apartments,3-bedroom,91,ok,2099225.0,1163.81,1738.26,90000.0,100,,https://datadubai.ae/communities/international-media-production-zone/3-bedroom/
 Dubai Maritime City,dubai-maritime-city,Studio,Studios,studio,783,ok,1376100.0,3391.22,409.78,65000.0,14,,https://datadubai.ae/communities/dubai-maritime-city/studio/
 Dubai Maritime City,dubai-maritime-city,1 B/R,1-bedroom apartments,1-bedroom,1345,ok,2485200.0,3133.82,792.98,90000.0,54,,https://datadubai.ae/communities/dubai-maritime-city/1-bedroom/
@@ -87,136 +87,136 @@ City Of Arabia,city-of-arabia,3 B/R,3-bedroom apartments,3-bedroom,23,ok,3358000
 DAMAC Lagoons,damac-lagoons,Studio,Studios,studio,1068,ok,729220.0,1901.36,386.64,,0,,https://datadubai.ae/communities/damac-lagoons/studio/
 DAMAC Lagoons,damac-lagoons,1 B/R,1-bedroom apartments,1-bedroom,654,ok,1258000.0,1656.2,759.66,,0,,https://datadubai.ae/communities/damac-lagoons/1-bedroom/
 DAMAC Lagoons,damac-lagoons,2 B/R,2-bedroom apartments,2-bedroom,221,ok,1816000.0,1550.23,1164.87,,0,,https://datadubai.ae/communities/damac-lagoons/2-bedroom/
-DownTown Dubai,downtown-dubai,Studio,Studios,studio,366,ok,1764999.0,3787.93,469.52,70000.0,600,5.83,https://datadubai.ae/communities/downtown-dubai/studio/
-DownTown Dubai,downtown-dubai,1 B/R,1-bedroom apartments,1-bedroom,890,ok,2300000.0,2667.91,876.83,112697.05,4135,5.32,https://datadubai.ae/communities/downtown-dubai/1-bedroom/
-DownTown Dubai,downtown-dubai,2 B/R,2-bedroom apartments,2-bedroom,956,ok,3900000.0,2774.52,1340.97,175000.0,3417,4.79,https://datadubai.ae/communities/downtown-dubai/2-bedroom/
-DownTown Dubai,downtown-dubai,3 B/R,3-bedroom apartments,3-bedroom,314,ok,6000000.0,3188.6,2019.74,295000.0,1003,5.26,https://datadubai.ae/communities/downtown-dubai/3-bedroom/
+DownTown Dubai,downtown-dubai,Studio,Studios,studio,366,ok,1764999.0,3787.93,469.52,70000.0,601,5.83,https://datadubai.ae/communities/downtown-dubai/studio/
+DownTown Dubai,downtown-dubai,1 B/R,1-bedroom apartments,1-bedroom,890,ok,2300000.0,2667.91,876.83,112697.05,4139,5.32,https://datadubai.ae/communities/downtown-dubai/1-bedroom/
+DownTown Dubai,downtown-dubai,2 B/R,2-bedroom apartments,2-bedroom,956,ok,3900000.0,2774.52,1340.97,175000.0,3423,4.79,https://datadubai.ae/communities/downtown-dubai/2-bedroom/
+DownTown Dubai,downtown-dubai,3 B/R,3-bedroom apartments,3-bedroom,314,ok,6000000.0,3188.6,2019.74,295000.0,1004,5.26,https://datadubai.ae/communities/downtown-dubai/3-bedroom/
 DownTown Dubai,downtown-dubai,4 B/R,4-bedroom apartments,4-bedroom,71,ok,13500000.0,3865.58,5130.19,1250000.0,65,9.26,https://datadubai.ae/communities/downtown-dubai/4-bedroom/
 DownTown Dubai,downtown-dubai,5 B/R,5-bedroom apartments,5-bedroom,9,low,,,6174.93,2012500.0,6,,
-Al Furjan,al-furjan,Studio,Studios,studio,618,ok,553705.0,1540.27,357.47,46000.0,1463,8.68,https://datadubai.ae/communities/al-furjan/studio/
-Al Furjan,al-furjan,1 B/R,1-bedroom apartments,1-bedroom,571,ok,1094725.0,1377.02,800.73,68000.0,2009,6.87,https://datadubai.ae/communities/al-furjan/1-bedroom/
-Al Furjan,al-furjan,2 B/R,2-bedroom apartments,2-bedroom,661,ok,1715000.0,1317.91,1286.29,99650.0,1398,6.18,https://datadubai.ae/communities/al-furjan/2-bedroom/
-Al Furjan,al-furjan,3 B/R,3-bedroom apartments,3-bedroom,247,ok,2354930.0,1342.04,1795.53,170000.0,901,7.03,https://datadubai.ae/communities/al-furjan/3-bedroom/
-Al Furjan,al-furjan,4 B/R,4-bedroom apartments,4-bedroom,68,ok,4050000.0,1806.16,2411.12,255000.0,652,6.34,https://datadubai.ae/communities/al-furjan/4-bedroom/
-Dubai Investment Park First,dubai-investment-park-first,Studio,Studios,studio,373,ok,525000.0,1084.03,384.92,37000.0,700,,https://datadubai.ae/communities/dubai-investment-park-first/studio/
-Dubai Investment Park First,dubai-investment-park-first,1 B/R,1-bedroom apartments,1-bedroom,507,ok,819725.0,1202.96,698.15,60000.0,1319,5.66,https://datadubai.ae/communities/dubai-investment-park-first/1-bedroom/
-Dubai Investment Park First,dubai-investment-park-first,2 B/R,2-bedroom apartments,2-bedroom,619,ok,1168085.0,1232.29,1072.19,75600.0,1184,,https://datadubai.ae/communities/dubai-investment-park-first/2-bedroom/
+Al Furjan,al-furjan,Studio,Studios,studio,618,ok,553705.0,1540.27,357.47,46000.0,1466,8.68,https://datadubai.ae/communities/al-furjan/studio/
+Al Furjan,al-furjan,1 B/R,1-bedroom apartments,1-bedroom,571,ok,1094725.0,1377.02,800.73,68000.0,2011,6.87,https://datadubai.ae/communities/al-furjan/1-bedroom/
+Al Furjan,al-furjan,2 B/R,2-bedroom apartments,2-bedroom,661,ok,1715000.0,1317.91,1286.29,99650.0,1402,6.18,https://datadubai.ae/communities/al-furjan/2-bedroom/
+Al Furjan,al-furjan,3 B/R,3-bedroom apartments,3-bedroom,247,ok,2354930.0,1342.04,1795.53,170000.0,903,7.03,https://datadubai.ae/communities/al-furjan/3-bedroom/
+Al Furjan,al-furjan,4 B/R,4-bedroom apartments,4-bedroom,68,ok,4050000.0,1806.16,2411.12,255000.0,653,6.34,https://datadubai.ae/communities/al-furjan/4-bedroom/
+Dubai Investment Park First,dubai-investment-park-first,Studio,Studios,studio,373,ok,525000.0,1075.98,384.92,37000.0,709,,https://datadubai.ae/communities/dubai-investment-park-first/studio/
+Dubai Investment Park First,dubai-investment-park-first,1 B/R,1-bedroom apartments,1-bedroom,507,ok,819725.0,1202.96,698.15,60000.0,1327,5.66,https://datadubai.ae/communities/dubai-investment-park-first/1-bedroom/
+Dubai Investment Park First,dubai-investment-park-first,2 B/R,2-bedroom apartments,2-bedroom,619,ok,1168085.0,1232.29,1072.19,75741.75,1193,,https://datadubai.ae/communities/dubai-investment-park-first/2-bedroom/
 Dubai Investment Park First,dubai-investment-park-first,3 B/R,3-bedroom apartments,3-bedroom,207,ok,1586085.0,1055.45,1693.27,160722.0,186,3.22,https://datadubai.ae/communities/dubai-investment-park-first/3-bedroom/
 Dubai Investment Park First,dubai-investment-park-first,4 B/R,4-bedroom apartments,4-bedroom,475,ok,1378108.0,1283.02,1092.32,326100.0,80,4.24,https://datadubai.ae/communities/dubai-investment-park-first/4-bedroom/
 Dubai Investment Park First,dubai-investment-park-first,5 B/R,5-bedroom apartments,5-bedroom,12,low,2200000.0,728.58,10632.48,370000.0,13,,
-Dubai Marina,dubai-marina,Studio,Studios,studio,169,ok,1065000.0,2423.77,465.75,60000.0,1078,5.71,https://datadubai.ae/communities/dubai-marina/studio/
-Dubai Marina,dubai-marina,1 B/R,1-bedroom apartments,1-bedroom,874,ok,1600000.0,2008.76,823.44,90000.0,6504,5.81,https://datadubai.ae/communities/dubai-marina/1-bedroom/
-Dubai Marina,dubai-marina,2 B/R,2-bedroom apartments,2-bedroom,633,ok,2600000.0,1918.54,1329.77,138000.0,4838,5.47,https://datadubai.ae/communities/dubai-marina/2-bedroom/
-Dubai Marina,dubai-marina,3 B/R,3-bedroom apartments,3-bedroom,269,ok,4125000.0,1829.76,1998.43,211600.0,1387,5.29,https://datadubai.ae/communities/dubai-marina/3-bedroom/
-Dubai Marina,dubai-marina,4 B/R,4-bedroom apartments,4-bedroom,74,ok,4250000.0,1564.34,3179.23,292000.0,190,7.89,https://datadubai.ae/communities/dubai-marina/4-bedroom/
+Dubai Marina,dubai-marina,Studio,Studios,studio,169,ok,1065000.0,2423.77,465.75,60000.0,1080,5.71,https://datadubai.ae/communities/dubai-marina/studio/
+Dubai Marina,dubai-marina,1 B/R,1-bedroom apartments,1-bedroom,874,ok,1600000.0,2008.76,823.44,90000.0,6520,5.81,https://datadubai.ae/communities/dubai-marina/1-bedroom/
+Dubai Marina,dubai-marina,2 B/R,2-bedroom apartments,2-bedroom,633,ok,2600000.0,1918.54,1329.77,138000.0,4850,5.47,https://datadubai.ae/communities/dubai-marina/2-bedroom/
+Dubai Marina,dubai-marina,3 B/R,3-bedroom apartments,3-bedroom,269,ok,4125000.0,1829.76,1998.43,211957.0,1388,5.3,https://datadubai.ae/communities/dubai-marina/3-bedroom/
+Dubai Marina,dubai-marina,4 B/R,4-bedroom apartments,4-bedroom,74,ok,4250000.0,1564.34,3179.23,290000.0,193,7.84,https://datadubai.ae/communities/dubai-marina/4-bedroom/
 Dubai Marina,dubai-marina,5 B/R,5-bedroom apartments,5-bedroom,5,low,,1525.07,4498.02,420000.0,31,,
-Dubai Hills Estate,dubai-hills-estate,Studio,Studios,studio,34,ok,950000.0,2110.36,433.68,70000.0,111,7.29,https://datadubai.ae/communities/dubai-hills-estate/studio/
-Dubai Hills Estate,dubai-hills-estate,1 B/R,1-bedroom apartments,1-bedroom,1020,ok,1756388.0,2383.71,727.64,90000.0,2380,5.87,https://datadubai.ae/communities/dubai-hills-estate/1-bedroom/
-Dubai Hills Estate,dubai-hills-estate,2 B/R,2-bedroom apartments,2-bedroom,872,ok,2691888.0,2381.89,1104.48,140000.0,2031,5.69,https://datadubai.ae/communities/dubai-hills-estate/2-bedroom/
-Dubai Hills Estate,dubai-hills-estate,3 B/R,3-bedroom apartments,3-bedroom,323,ok,4457910.0,2558.83,1743.86,245500.0,450,6.14,https://datadubai.ae/communities/dubai-hills-estate/3-bedroom/
+Dubai Hills Estate,dubai-hills-estate,Studio,Studios,studio,34,ok,950000.0,2110.36,433.68,70000.0,112,7.29,https://datadubai.ae/communities/dubai-hills-estate/studio/
+Dubai Hills Estate,dubai-hills-estate,1 B/R,1-bedroom apartments,1-bedroom,1020,ok,1756388.0,2383.71,727.64,90000.0,2381,5.87,https://datadubai.ae/communities/dubai-hills-estate/1-bedroom/
+Dubai Hills Estate,dubai-hills-estate,2 B/R,2-bedroom apartments,2-bedroom,872,ok,2691888.0,2381.89,1104.48,140000.0,2035,5.69,https://datadubai.ae/communities/dubai-hills-estate/2-bedroom/
+Dubai Hills Estate,dubai-hills-estate,3 B/R,3-bedroom apartments,3-bedroom,323,ok,4457910.0,2558.83,1743.86,245000.0,451,6.12,https://datadubai.ae/communities/dubai-hills-estate/3-bedroom/
 Dubai Hills Estate,dubai-hills-estate,4 B/R,4-bedroom apartments,4-bedroom,4,insufficient,,,,,3,,
 Meydan Racecourse Community,meydan-racecourse-community,Studio,Studios,studio,1157,ok,1372000.0,3570.2,386.85,45500.0,6,,https://datadubai.ae/communities/meydan-racecourse-community/studio/
-Meydan Racecourse Community,meydan-racecourse-community,1 B/R,1-bedroom apartments,1-bedroom,549,ok,2314000.0,3564.01,633.03,78000.0,979,6.57,https://datadubai.ae/communities/meydan-racecourse-community/1-bedroom/
-Meydan Racecourse Community,meydan-racecourse-community,2 B/R,2-bedroom apartments,2-bedroom,296,ok,3238000.0,2600.15,1037.32,120750.0,724,4.78,https://datadubai.ae/communities/meydan-racecourse-community/2-bedroom/
-Meydan Racecourse Community,meydan-racecourse-community,3 B/R,3-bedroom apartments,3-bedroom,54,ok,5161000.0,2550.01,1812.91,150000.0,101,,https://datadubai.ae/communities/meydan-racecourse-community/3-bedroom/
+Meydan Racecourse Community,meydan-racecourse-community,1 B/R,1-bedroom apartments,1-bedroom,549,ok,2314000.0,3564.01,633.03,78000.0,980,6.57,https://datadubai.ae/communities/meydan-racecourse-community/1-bedroom/
+Meydan Racecourse Community,meydan-racecourse-community,2 B/R,2-bedroom apartments,2-bedroom,296,ok,3238000.0,2600.15,1037.32,120750.0,725,4.78,https://datadubai.ae/communities/meydan-racecourse-community/2-bedroom/
+Meydan Racecourse Community,meydan-racecourse-community,3 B/R,3-bedroom apartments,3-bedroom,54,ok,5161000.0,2550.01,1812.91,150000.0,102,,https://datadubai.ae/communities/meydan-racecourse-community/3-bedroom/
 Meydan Racecourse Community,meydan-racecourse-community,4 B/R,4-bedroom apartments,4-bedroom,3,insufficient,,,,,3,,
-Dubai Science Park,dubai-science-park,Studio,Studios,studio,1038,ok,843999.0,2024.13,426.36,46000.0,414,7.42,https://datadubai.ae/communities/dubai-science-park/studio/
-Dubai Science Park,dubai-science-park,1 B/R,1-bedroom apartments,1-bedroom,721,ok,1410000.0,1582.72,885.76,69812.33,605,6.79,https://datadubai.ae/communities/dubai-science-park/1-bedroom/
-Dubai Science Park,dubai-science-park,2 B/R,2-bedroom apartments,2-bedroom,256,ok,2160000.0,1438.59,1491.88,110000.0,308,6.47,https://datadubai.ae/communities/dubai-science-park/2-bedroom/
+Dubai Science Park,dubai-science-park,Studio,Studios,studio,1038,ok,843999.0,2024.13,426.36,46000.0,415,7.42,https://datadubai.ae/communities/dubai-science-park/studio/
+Dubai Science Park,dubai-science-park,1 B/R,1-bedroom apartments,1-bedroom,721,ok,1410000.0,1582.72,885.76,69556.17,606,6.77,https://datadubai.ae/communities/dubai-science-park/1-bedroom/
+Dubai Science Park,dubai-science-park,2 B/R,2-bedroom apartments,2-bedroom,256,ok,2160000.0,1438.59,1491.88,110000.0,310,6.47,https://datadubai.ae/communities/dubai-science-park/2-bedroom/
 Dubai Science Park,dubai-science-park,3 B/R,3-bedroom apartments,3-bedroom,27,ok,3550318.0,1396.5,2556.75,102612.5,24,,https://datadubai.ae/communities/dubai-science-park/3-bedroom/
 Dubai Science Park,dubai-science-park,4 B/R,4-bedroom apartments,4-bedroom,4,insufficient,,,,,0,,
 TOWN SQUARE,town-square,Studio,Studios,studio,64,ok,560000.0,1614.86,346.01,42000.0,338,7.57,https://datadubai.ae/communities/town-square/studio/
 TOWN SQUARE,town-square,1 B/R,1-bedroom apartments,1-bedroom,642,ok,1050000.0,1650.66,633.67,60000.0,1715,7.06,https://datadubai.ae/communities/town-square/1-bedroom/
 TOWN SQUARE,town-square,2 B/R,2-bedroom apartments,2-bedroom,924,ok,1527888.0,1508.01,969.29,85000.0,1711,6.43,https://datadubai.ae/communities/town-square/2-bedroom/
-TOWN SQUARE,town-square,3 B/R,3-bedroom apartments,3-bedroom,346,ok,2750000.0,1408.97,1872.92,144000.0,1963,5.14,https://datadubai.ae/communities/town-square/3-bedroom/
-TOWN SQUARE,town-square,4 B/R,4-bedroom apartments,4-bedroom,71,ok,3500000.0,1201.14,2917.45,175000.0,464,5.0,https://datadubai.ae/communities/town-square/4-bedroom/
-Silicon Oasis,silicon-oasis,Studio,Studios,studio,417,ok,558817.5,1300.0,427.65,41000.0,3416,8.72,https://datadubai.ae/communities/silicon-oasis/studio/
-Silicon Oasis,silicon-oasis,1 B/R,1-bedroom apartments,1-bedroom,821,ok,858850.0,986.86,796.64,55000.0,8152,7.53,https://datadubai.ae/communities/silicon-oasis/1-bedroom/
-Silicon Oasis,silicon-oasis,2 B/R,2-bedroom apartments,2-bedroom,513,ok,1550000.0,1294.99,1211.91,76000.0,2987,5.67,https://datadubai.ae/communities/silicon-oasis/2-bedroom/
-Silicon Oasis,silicon-oasis,3 B/R,3-bedroom apartments,3-bedroom,92,ok,2010950.0,1011.03,1650.81,110000.0,543,7.27,https://datadubai.ae/communities/silicon-oasis/3-bedroom/
+TOWN SQUARE,town-square,3 B/R,3-bedroom apartments,3-bedroom,346,ok,2750000.0,1408.97,1872.92,144000.0,1964,5.14,https://datadubai.ae/communities/town-square/3-bedroom/
+TOWN SQUARE,town-square,4 B/R,4-bedroom apartments,4-bedroom,71,ok,3500000.0,1201.14,2917.45,175000.0,465,5.0,https://datadubai.ae/communities/town-square/4-bedroom/
+Silicon Oasis,silicon-oasis,Studio,Studios,studio,417,ok,558817.5,1300.0,427.65,41000.0,3426,8.72,https://datadubai.ae/communities/silicon-oasis/studio/
+Silicon Oasis,silicon-oasis,1 B/R,1-bedroom apartments,1-bedroom,821,ok,858850.0,986.86,796.64,55000.0,8169,7.53,https://datadubai.ae/communities/silicon-oasis/1-bedroom/
+Silicon Oasis,silicon-oasis,2 B/R,2-bedroom apartments,2-bedroom,513,ok,1550000.0,1294.99,1211.91,76000.0,2989,5.67,https://datadubai.ae/communities/silicon-oasis/2-bedroom/
+Silicon Oasis,silicon-oasis,3 B/R,3-bedroom apartments,3-bedroom,92,ok,2010950.0,1011.03,1650.81,110000.0,545,7.27,https://datadubai.ae/communities/silicon-oasis/3-bedroom/
 Silicon Oasis,silicon-oasis,4 B/R,4-bedroom apartments,4-bedroom,3,insufficient,,,,125000.0,22,,
 Wasl Gate,wasl-gate,Studio,Studios,studio,347,ok,669203.0,1605.48,412.26,50000.0,13,,https://datadubai.ae/communities/wasl-gate/studio/
 Wasl Gate,wasl-gate,1 B/R,1-bedroom apartments,1-bedroom,724,ok,1121000.0,1557.62,788.56,62000.0,108,,https://datadubai.ae/communities/wasl-gate/1-bedroom/
 Wasl Gate,wasl-gate,2 B/R,2-bedroom apartments,2-bedroom,760,ok,1798500.0,1471.53,1235.43,76000.0,221,7.05,https://datadubai.ae/communities/wasl-gate/2-bedroom/
 Wasl Gate,wasl-gate,3 B/R,3-bedroom apartments,3-bedroom,124,ok,2865500.0,1586.9,1793.27,100000.0,51,,https://datadubai.ae/communities/wasl-gate/3-bedroom/
 Wasl Gate,wasl-gate,4 B/R,4-bedroom apartments,4-bedroom,3,insufficient,,,,,0,,
-International City Phase 1,international-city-phase-1,Studio,Studios,studio,632,ok,350000.0,717.89,473.61,30000.0,9482,8.82,https://datadubai.ae/communities/international-city-phase-1/studio/
-International City Phase 1,international-city-phase-1,1 B/R,1-bedroom apartments,1-bedroom,725,ok,470000.0,628.46,741.1,40000.0,9810,8.89,https://datadubai.ae/communities/international-city-phase-1/1-bedroom/
-International City Phase 1,international-city-phase-1,2 B/R,2-bedroom apartments,2-bedroom,114,ok,830000.0,764.26,1131.29,55000.0,2448,7.56,https://datadubai.ae/communities/international-city-phase-1/2-bedroom/
+International City Phase 1,international-city-phase-1,Studio,Studios,studio,632,ok,350000.0,717.89,473.61,30000.0,9504,8.82,https://datadubai.ae/communities/international-city-phase-1/studio/
+International City Phase 1,international-city-phase-1,1 B/R,1-bedroom apartments,1-bedroom,725,ok,470000.0,628.46,741.1,40000.0,9846,8.89,https://datadubai.ae/communities/international-city-phase-1/1-bedroom/
+International City Phase 1,international-city-phase-1,2 B/R,2-bedroom apartments,2-bedroom,114,ok,830000.0,764.26,1131.29,55000.0,2455,7.56,https://datadubai.ae/communities/international-city-phase-1/2-bedroom/
 International City Phase 1,international-city-phase-1,3 B/R,3-bedroom apartments,3-bedroom,46,ok,1550000.0,663.19,2383.99,104500.0,260,6.74,https://datadubai.ae/communities/international-city-phase-1/3-bedroom/
-DAMAC HILLS,damac-hills,Studio,Studios,studio,312,ok,610000.0,1444.88,425.66,44050.5,1334,7.66,https://datadubai.ae/communities/damac-hills/studio/
-DAMAC HILLS,damac-hills,1 B/R,1-bedroom apartments,1-bedroom,790,ok,1230000.0,1763.59,687.49,70000.0,1277,7.11,https://datadubai.ae/communities/damac-hills/1-bedroom/
+DAMAC HILLS,damac-hills,Studio,Studios,studio,312,ok,610000.0,1444.88,425.66,44001.0,1336,7.65,https://datadubai.ae/communities/damac-hills/studio/
+DAMAC HILLS,damac-hills,1 B/R,1-bedroom apartments,1-bedroom,790,ok,1230000.0,1763.59,687.49,70000.0,1278,7.11,https://datadubai.ae/communities/damac-hills/1-bedroom/
 DAMAC HILLS,damac-hills,2 B/R,2-bedroom apartments,2-bedroom,264,ok,2031000.0,1608.84,1261.42,118000.0,325,6.6,https://datadubai.ae/communities/damac-hills/2-bedroom/
-DAMAC HILLS,damac-hills,3 B/R,3-bedroom apartments,3-bedroom,20,ok,2975000.0,1218.07,2815.3,165000.0,75,5.67,https://datadubai.ae/communities/damac-hills/3-bedroom/
+DAMAC HILLS,damac-hills,3 B/R,3-bedroom apartments,3-bedroom,20,ok,2975000.0,1218.07,2815.3,167500.0,76,5.75,https://datadubai.ae/communities/damac-hills/3-bedroom/
 DMCC-EZ2,dmcc-ez2,1 B/R,1-bedroom apartments,1-bedroom,972,ok,1987275.0,3035.01,644.76,,0,,https://datadubai.ae/communities/dmcc-ez2/1-bedroom/
 DMCC-EZ2,dmcc-ez2,2 B/R,2-bedroom apartments,2-bedroom,713,ok,2660403.0,2969.98,898.03,,0,,https://datadubai.ae/communities/dmcc-ez2/2-bedroom/
 DMCC-EZ2,dmcc-ez2,3 B/R,3-bedroom apartments,3-bedroom,25,ok,5770991.0,3099.99,1861.62,,0,,https://datadubai.ae/communities/dmcc-ez2/3-bedroom/
-DMCC Master Community,dmcc-master-community,Studio,Studios,studio,265,ok,875000.0,1943.28,415.38,56000.0,1335,7.32,https://datadubai.ae/communities/dmcc-master-community/studio/
-DMCC Master Community,dmcc-master-community,1 B/R,1-bedroom apartments,1-bedroom,451,ok,1300000.0,1505.72,829.9,80000.0,3105,7.1,https://datadubai.ae/communities/dmcc-master-community/1-bedroom/
-DMCC Master Community,dmcc-master-community,2 B/R,2-bedroom apartments,2-bedroom,286,ok,2417328.0,1592.55,1351.79,120000.0,1720,6.32,https://datadubai.ae/communities/dmcc-master-community/2-bedroom/
+DMCC Master Community,dmcc-master-community,Studio,Studios,studio,265,ok,875000.0,1943.28,415.38,56000.0,1337,7.32,https://datadubai.ae/communities/dmcc-master-community/studio/
+DMCC Master Community,dmcc-master-community,1 B/R,1-bedroom apartments,1-bedroom,451,ok,1300000.0,1505.35,829.9,80000.0,3113,7.1,https://datadubai.ae/communities/dmcc-master-community/1-bedroom/
+DMCC Master Community,dmcc-master-community,2 B/R,2-bedroom apartments,2-bedroom,286,ok,2417328.0,1592.55,1351.79,120000.0,1724,6.32,https://datadubai.ae/communities/dmcc-master-community/2-bedroom/
 DMCC Master Community,dmcc-master-community,3 B/R,3-bedroom apartments,3-bedroom,91,ok,3617120.0,1758.67,2077.0,140000.0,418,5.38,https://datadubai.ae/communities/dmcc-master-community/3-bedroom/
 DMCC Master Community,dmcc-master-community,4 B/R,4-bedroom apartments,4-bedroom,7,low,3064621.5,1304.48,2658.15,237500.0,22,,
 DMCC Master Community,dmcc-master-community,5 B/R,5-bedroom apartments,5-bedroom,2,insufficient,,,,350000.0,11,,
 Dubai Studio City,dubai-studio-city,Studio,Studios,studio,729,ok,553500.0,1539.72,355.32,46000.0,917,9.05,https://datadubai.ae/communities/dubai-studio-city/studio/
-Dubai Studio City,dubai-studio-city,1 B/R,1-bedroom apartments,1-bedroom,529,ok,1032562.0,1439.18,685.66,65000.0,824,7.65,https://datadubai.ae/communities/dubai-studio-city/1-bedroom/
+Dubai Studio City,dubai-studio-city,1 B/R,1-bedroom apartments,1-bedroom,529,ok,1032562.0,1439.18,685.66,65000.0,828,7.65,https://datadubai.ae/communities/dubai-studio-city/1-bedroom/
 Dubai Studio City,dubai-studio-city,2 B/R,2-bedroom apartments,2-bedroom,83,ok,1511520.0,1312.62,1152.49,90000.0,272,8.11,https://datadubai.ae/communities/dubai-studio-city/2-bedroom/
 Dubai Studio City,dubai-studio-city,3 B/R,3-bedroom apartments,3-bedroom,9,low,1650000.0,1027.47,1354.32,110000.0,34,,
-International City Phase 3,international-city-phase-3,Studio,Studios,studio,538,ok,530000.0,1200.01,406.98,38000.0,2692,7.92,https://datadubai.ae/communities/international-city-phase-3/studio/
-International City Phase 3,international-city-phase-3,1 B/R,1-bedroom apartments,1-bedroom,745,ok,862513.0,1133.09,732.16,50000.0,5419,7.3,https://datadubai.ae/communities/international-city-phase-3/1-bedroom/
-International City Phase 3,international-city-phase-3,2 B/R,2-bedroom apartments,2-bedroom,167,ok,1251777.0,1136.28,1135.59,62000.0,1040,6.2,https://datadubai.ae/communities/international-city-phase-3/2-bedroom/
-International City Phase 3,international-city-phase-3,3 B/R,3-bedroom apartments,3-bedroom,23,ok,1300000.0,1079.11,1182.52,86749.5,62,,https://datadubai.ae/communities/international-city-phase-3/3-bedroom/
+International City Phase 3,international-city-phase-3,Studio,Studios,studio,538,ok,530000.0,1200.01,406.98,38000.0,2703,7.92,https://datadubai.ae/communities/international-city-phase-3/studio/
+International City Phase 3,international-city-phase-3,1 B/R,1-bedroom apartments,1-bedroom,745,ok,862513.0,1133.09,732.16,50000.0,5437,7.3,https://datadubai.ae/communities/international-city-phase-3/1-bedroom/
+International City Phase 3,international-city-phase-3,2 B/R,2-bedroom apartments,2-bedroom,167,ok,1251777.0,1136.28,1135.59,62000.0,1047,6.2,https://datadubai.ae/communities/international-city-phase-3/2-bedroom/
+International City Phase 3,international-city-phase-3,3 B/R,3-bedroom apartments,3-bedroom,23,ok,1300000.0,1079.11,1182.52,86000.0,63,,https://datadubai.ae/communities/international-city-phase-3/3-bedroom/
 Jumeirah Garden City,jumeirah-garden-city,Studio,Studios,studio,584,ok,1034140.0,2419.33,416.78,58000.0,299,,https://datadubai.ae/communities/jumeirah-garden-city/studio/
-Jumeirah Garden City,jumeirah-garden-city,1 B/R,1-bedroom apartments,1-bedroom,672,ok,1611503.0,2166.73,734.96,73000.0,1823,5.31,https://datadubai.ae/communities/jumeirah-garden-city/1-bedroom/
-Jumeirah Garden City,jumeirah-garden-city,2 B/R,2-bedroom apartments,2-bedroom,166,ok,2337607.5,2112.89,1099.21,95000.0,1438,4.23,https://datadubai.ae/communities/jumeirah-garden-city/2-bedroom/
+Jumeirah Garden City,jumeirah-garden-city,1 B/R,1-bedroom apartments,1-bedroom,672,ok,1611503.0,2166.73,734.96,72943.39,1830,5.31,https://datadubai.ae/communities/jumeirah-garden-city/1-bedroom/
+Jumeirah Garden City,jumeirah-garden-city,2 B/R,2-bedroom apartments,2-bedroom,166,ok,2337607.5,2112.89,1099.21,95000.0,1440,4.23,https://datadubai.ae/communities/jumeirah-garden-city/2-bedroom/
 Jumeirah Garden City,jumeirah-garden-city,3 B/R,3-bedroom apartments,3-bedroom,5,low,4003300.0,2142.84,1866.78,150000.0,31,,
-DAMAC HILLS 2,damac-hills-2,Studio,Studios,studio,51,ok,453518.0,1090.47,421.41,37000.0,217,8.16,https://datadubai.ae/communities/damac-hills-2/studio/
+DAMAC HILLS 2,damac-hills-2,Studio,Studios,studio,51,ok,453518.0,1090.47,421.41,37000.0,218,8.16,https://datadubai.ae/communities/damac-hills-2/studio/
 DAMAC HILLS 2,damac-hills-2,1 B/R,1-bedroom apartments,1-bedroom,64,ok,660000.0,1179.9,552.4,48000.0,224,7.27,https://datadubai.ae/communities/damac-hills-2/1-bedroom/
 DAMAC HILLS 2,damac-hills-2,2 B/R,2-bedroom apartments,2-bedroom,53,ok,1163000.0,1261.45,999.0,68000.0,36,7.08,https://datadubai.ae/communities/damac-hills-2/2-bedroom/
-Meydan One Community,meydan-one-community,Studio,Studios,studio,732,ok,725400.0,2068.2,365.11,48000.0,4092,6.96,https://datadubai.ae/communities/meydan-one-community/studio/
-Meydan One Community,meydan-one-community,1 B/R,1-bedroom apartments,1-bedroom,367,ok,1400000.0,2053.2,726.67,73500.0,1673,6.12,https://datadubai.ae/communities/meydan-one-community/1-bedroom/
-Meydan One Community,meydan-one-community,2 B/R,2-bedroom apartments,2-bedroom,135,ok,2300000.0,2097.45,1201.58,100000.0,424,5.41,https://datadubai.ae/communities/meydan-one-community/2-bedroom/
-Meydan One Community,meydan-one-community,3 B/R,3-bedroom apartments,3-bedroom,29,ok,3803800.0,2317.44,1671.64,130000.0,136,,https://datadubai.ae/communities/meydan-one-community/3-bedroom/
+Meydan One Community,meydan-one-community,Studio,Studios,studio,732,ok,725400.0,2068.2,365.11,48000.0,4102,6.96,https://datadubai.ae/communities/meydan-one-community/studio/
+Meydan One Community,meydan-one-community,1 B/R,1-bedroom apartments,1-bedroom,367,ok,1400000.0,2053.2,726.67,73500.0,1676,6.12,https://datadubai.ae/communities/meydan-one-community/1-bedroom/
+Meydan One Community,meydan-one-community,2 B/R,2-bedroom apartments,2-bedroom,135,ok,2300000.0,2097.45,1201.58,100000.0,425,5.41,https://datadubai.ae/communities/meydan-one-community/2-bedroom/
+Meydan One Community,meydan-one-community,3 B/R,3-bedroom apartments,3-bedroom,29,ok,3803800.0,2317.44,1671.64,130000.0,137,,https://datadubai.ae/communities/meydan-one-community/3-bedroom/
 Jumeirah Islands,jumeirah-islands,Studio,Studios,studio,67,ok,1210567.0,2005.71,525.39,56000.0,20,,https://datadubai.ae/communities/jumeirah-islands/studio/
 Jumeirah Islands,jumeirah-islands,1 B/R,1-bedroom apartments,1-bedroom,628,ok,2075828.0,2507.07,821.61,83000.0,53,,https://datadubai.ae/communities/jumeirah-islands/1-bedroom/
 Jumeirah Islands,jumeirah-islands,2 B/R,2-bedroom apartments,2-bedroom,371,ok,3302828.0,2520.39,1284.46,180000.0,22,,https://datadubai.ae/communities/jumeirah-islands/2-bedroom/
 Jumeirah Islands,jumeirah-islands,3 B/R,3-bedroom apartments,3-bedroom,101,ok,4170828.0,2443.74,1671.96,225000.0,55,,https://datadubai.ae/communities/jumeirah-islands/3-bedroom/
 Jumeirah Islands,jumeirah-islands,4 B/R,4-bedroom apartments,4-bedroom,11,low,7996000.0,2764.25,2849.96,,0,,
 Palm Jumeirah,palm-jumeirah,Studio,Studios,studio,94,ok,1500000.0,2783.33,523.66,90000.0,247,6.0,https://datadubai.ae/communities/palm-jumeirah/studio/
-Palm Jumeirah,palm-jumeirah,1 B/R,1-bedroom apartments,1-bedroom,239,ok,3300000.0,2720.87,1073.7,145000.0,1086,5.2,https://datadubai.ae/communities/palm-jumeirah/1-bedroom/
-Palm Jumeirah,palm-jumeirah,2 B/R,2-bedroom apartments,2-bedroom,437,ok,5487500.0,2452.15,1763.88,203963.0,1619,4.58,https://datadubai.ae/communities/palm-jumeirah/2-bedroom/
-Palm Jumeirah,palm-jumeirah,3 B/R,3-bedroom apartments,3-bedroom,258,ok,5850000.0,2546.37,2339.0,290000.0,744,5.27,https://datadubai.ae/communities/palm-jumeirah/3-bedroom/
+Palm Jumeirah,palm-jumeirah,1 B/R,1-bedroom apartments,1-bedroom,239,ok,3300000.0,2720.87,1073.7,145000.0,1087,5.2,https://datadubai.ae/communities/palm-jumeirah/1-bedroom/
+Palm Jumeirah,palm-jumeirah,2 B/R,2-bedroom apartments,2-bedroom,437,ok,5462500.0,2452.15,1763.88,203903.5,1620,4.58,https://datadubai.ae/communities/palm-jumeirah/2-bedroom/
+Palm Jumeirah,palm-jumeirah,3 B/R,3-bedroom apartments,3-bedroom,258,ok,5850000.0,2546.37,2339.0,290000.0,746,5.27,https://datadubai.ae/communities/palm-jumeirah/3-bedroom/
 Palm Jumeirah,palm-jumeirah,4 B/R,4-bedroom apartments,4-bedroom,66,ok,,2755.64,6407.22,625000.0,81,,https://datadubai.ae/communities/palm-jumeirah/4-bedroom/
-Palm Jumeirah,palm-jumeirah,5 B/R,5-bedroom apartments,5-bedroom,18,low,,2350.39,11529.33,906000.0,107,,
+Palm Jumeirah,palm-jumeirah,5 B/R,5-bedroom apartments,5-bedroom,18,low,,2191.01,11529.33,928000.0,108,,
 SOBHA HARTLAND,sobha-hartland,Studio,Studios,studio,52,ok,995000.0,1928.79,481.31,65000.0,172,6.57,https://datadubai.ae/communities/sobha-hartland/studio/
-SOBHA HARTLAND,sobha-hartland,1 B/R,1-bedroom apartments,1-bedroom,600,ok,1400000.0,2081.66,684.26,85800.0,2631,6.33,https://datadubai.ae/communities/sobha-hartland/1-bedroom/
-SOBHA HARTLAND,sobha-hartland,2 B/R,2-bedroom apartments,2-bedroom,393,ok,2411822.0,1990.13,1212.23,140000.0,1377,5.96,https://datadubai.ae/communities/sobha-hartland/2-bedroom/
+SOBHA HARTLAND,sobha-hartland,1 B/R,1-bedroom apartments,1-bedroom,600,ok,1400000.0,2081.66,684.26,85691.25,2634,6.33,https://datadubai.ae/communities/sobha-hartland/1-bedroom/
+SOBHA HARTLAND,sobha-hartland,2 B/R,2-bedroom apartments,2-bedroom,393,ok,2411822.0,1990.13,1212.23,140000.0,1381,5.96,https://datadubai.ae/communities/sobha-hartland/2-bedroom/
 SOBHA HARTLAND,sobha-hartland,3 B/R,3-bedroom apartments,3-bedroom,103,ok,3320000.0,2010.06,1614.16,190000.0,281,5.76,https://datadubai.ae/communities/sobha-hartland/3-bedroom/
 SOBHA HARTLAND,sobha-hartland,4 B/R,4-bedroom apartments,4-bedroom,33,ok,4620000.0,1995.77,2353.1,272500.0,96,5.8,https://datadubai.ae/communities/sobha-hartland/4-bedroom/
-Discovery Gardens,discovery-gardens,Studio,Studios,studio,516,ok,528655.5,1084.95,475.33,42000.0,6308,8.08,https://datadubai.ae/communities/discovery-gardens/studio/
-Discovery Gardens,discovery-gardens,1 B/R,1-bedroom apartments,1-bedroom,464,ok,790000.0,888.32,916.44,60000.0,5724,7.69,https://datadubai.ae/communities/discovery-gardens/1-bedroom/
-Discovery Gardens,discovery-gardens,2 B/R,2-bedroom apartments,2-bedroom,194,ok,1250000.0,892.52,1405.07,76486.78,1573,6.12,https://datadubai.ae/communities/discovery-gardens/2-bedroom/
+Discovery Gardens,discovery-gardens,Studio,Studios,studio,516,ok,528655.5,1084.95,475.33,42000.0,6319,8.08,https://datadubai.ae/communities/discovery-gardens/studio/
+Discovery Gardens,discovery-gardens,1 B/R,1-bedroom apartments,1-bedroom,464,ok,790000.0,888.32,916.44,60000.0,5732,7.69,https://datadubai.ae/communities/discovery-gardens/1-bedroom/
+Discovery Gardens,discovery-gardens,2 B/R,2-bedroom apartments,2-bedroom,194,ok,1250000.0,892.52,1405.07,76481.39,1576,6.12,https://datadubai.ae/communities/discovery-gardens/2-bedroom/
 Discovery Gardens,discovery-gardens,3 B/R,3-bedroom apartments,3-bedroom,1,insufficient,,,,,0,,
 Liwan1,liwan1,Studio,Studios,studio,242,ok,709777.0,1691.4,416.24,41338.24,422,7.84,https://datadubai.ae/communities/liwan1/studio/
-Liwan1,liwan1,1 B/R,1-bedroom apartments,1-bedroom,593,ok,895940.0,1058.75,804.28,50000.0,1810,6.4,https://datadubai.ae/communities/liwan1/1-bedroom/
-Liwan1,liwan1,2 B/R,2-bedroom apartments,2-bedroom,259,ok,1398400.0,1000.0,1328.05,72000.0,836,5.41,https://datadubai.ae/communities/liwan1/2-bedroom/
-Liwan1,liwan1,3 B/R,3-bedroom apartments,3-bedroom,29,ok,1500000.0,881.32,1769.69,93000.0,63,7.44,https://datadubai.ae/communities/liwan1/3-bedroom/
+Liwan1,liwan1,1 B/R,1-bedroom apartments,1-bedroom,593,ok,895940.0,1058.75,804.28,50000.0,1815,6.4,https://datadubai.ae/communities/liwan1/1-bedroom/
+Liwan1,liwan1,2 B/R,2-bedroom apartments,2-bedroom,259,ok,1398400.0,1000.0,1328.05,72000.0,840,5.41,https://datadubai.ae/communities/liwan1/2-bedroom/
+Liwan1,liwan1,3 B/R,3-bedroom apartments,3-bedroom,29,ok,1500000.0,881.32,1769.69,92000.0,65,7.36,https://datadubai.ae/communities/liwan1/3-bedroom/
 Liwan1,liwan1,4 B/R,4-bedroom apartments,4-bedroom,2,insufficient,,,,,0,,
 Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,Studio,Studios,studio,394,ok,909900.5,2099.63,436.15,54000.0,647,6.37,https://datadubai.ae/communities/dubai-health-care-city-phase-2/studio/
-Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,1 B/R,1-bedroom apartments,1-bedroom,377,ok,1432000.0,1870.6,737.33,75000.0,1137,5.91,https://datadubai.ae/communities/dubai-health-care-city-phase-2/1-bedroom/
-Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,2 B/R,2-bedroom apartments,2-bedroom,247,ok,2220000.0,1918.95,1165.41,120000.0,286,6.0,https://datadubai.ae/communities/dubai-health-care-city-phase-2/2-bedroom/
+Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,1 B/R,1-bedroom apartments,1-bedroom,377,ok,1432000.0,1870.6,737.33,75000.0,1138,5.91,https://datadubai.ae/communities/dubai-health-care-city-phase-2/1-bedroom/
+Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,2 B/R,2-bedroom apartments,2-bedroom,247,ok,2220000.0,1918.95,1165.41,120000.0,287,6.0,https://datadubai.ae/communities/dubai-health-care-city-phase-2/2-bedroom/
 Dubai Health Care City Phase 2,dubai-health-care-city-phase-2,3 B/R,3-bedroom apartments,3-bedroom,72,ok,3100000.0,1889.92,1715.98,140000.0,97,6.22,https://datadubai.ae/communities/dubai-health-care-city-phase-2/3-bedroom/
 Sama Al Jadaf,sama-al-jadaf,Studio,Studios,studio,359,ok,835999.0,2272.54,379.75,50000.0,19,,https://datadubai.ae/communities/sama-al-jadaf/studio/
 Sama Al Jadaf,sama-al-jadaf,1 B/R,1-bedroom apartments,1-bedroom,443,ok,1454999.0,2008.23,699.22,75000.0,29,,https://datadubai.ae/communities/sama-al-jadaf/1-bedroom/
 Sama Al Jadaf,sama-al-jadaf,2 B/R,2-bedroom apartments,2-bedroom,87,ok,2085999.0,2031.56,1016.54,110000.0,64,,https://datadubai.ae/communities/sama-al-jadaf/2-bedroom/
 Sama Al Jadaf,sama-al-jadaf,3 B/R,3-bedroom apartments,3-bedroom,3,insufficient,,,,125000.0,14,,
-Dubai Harbour,dubai-harbour,1 B/R,1-bedroom apartments,1-bedroom,278,ok,3078888.0,3440.23,839.53,130000.0,692,5.25,https://datadubai.ae/communities/dubai-harbour/1-bedroom/
-Dubai Harbour,dubai-harbour,2 B/R,2-bedroom apartments,2-bedroom,309,ok,6469888.0,3897.53,1558.51,210000.0,603,4.88,https://datadubai.ae/communities/dubai-harbour/2-bedroom/
+Dubai Harbour,dubai-harbour,1 B/R,1-bedroom apartments,1-bedroom,278,ok,3078888.0,3440.23,839.53,130000.0,694,5.25,https://datadubai.ae/communities/dubai-harbour/1-bedroom/
+Dubai Harbour,dubai-harbour,2 B/R,2-bedroom apartments,2-bedroom,309,ok,6469888.0,3895.05,1558.51,210000.0,604,4.88,https://datadubai.ae/communities/dubai-harbour/2-bedroom/
 Dubai Harbour,dubai-harbour,3 B/R,3-bedroom apartments,3-bedroom,146,ok,7500000.0,3701.52,2135.72,350000.0,182,5.0,https://datadubai.ae/communities/dubai-harbour/3-bedroom/
 Dubai Harbour,dubai-harbour,4 B/R,4-bedroom apartments,4-bedroom,32,ok,,3882.66,4479.13,550000.0,15,,https://datadubai.ae/communities/dubai-harbour/4-bedroom/
 Dubai Harbour,dubai-harbour,5 B/R,5-bedroom apartments,5-bedroom,5,low,,,7681.02,,0,,
 Sufouh Gardens,sufouh-gardens,Studio,Studios,studio,2,insufficient,,,,49920.0,101,,
-Sufouh Gardens,sufouh-gardens,1 B/R,1-bedroom apartments,1-bedroom,49,ok,1889649.5,2507.8,767.25,85000.0,146,6.28,https://datadubai.ae/communities/sufouh-gardens/1-bedroom/
-Sufouh Gardens,sufouh-gardens,2 B/R,2-bedroom apartments,2-bedroom,123,ok,2890400.0,2448.0,1256.79,103831.53,158,4.58,https://datadubai.ae/communities/sufouh-gardens/2-bedroom/
+Sufouh Gardens,sufouh-gardens,1 B/R,1-bedroom apartments,1-bedroom,49,ok,1889649.5,2507.8,767.25,85000.0,147,6.28,https://datadubai.ae/communities/sufouh-gardens/1-bedroom/
+Sufouh Gardens,sufouh-gardens,2 B/R,2-bedroom apartments,2-bedroom,123,ok,2890400.0,2448.0,1256.79,103625.0,159,4.58,https://datadubai.ae/communities/sufouh-gardens/2-bedroom/
 Sufouh Gardens,sufouh-gardens,3 B/R,3-bedroom apartments,3-bedroom,16,low,3695000.0,1739.72,2112.85,185000.0,14,,
 Sufouh Gardens,sufouh-gardens,4 B/R,4-bedroom apartments,4-bedroom,2,insufficient,,,,,0,,
 Palm Jabal Ali,palm-jabal-ali,1 B/R,1-bedroom apartments,1-bedroom,162,ok,2785000.0,3385.12,836.14,,0,,https://datadubai.ae/communities/palm-jabal-ali/1-bedroom/
@@ -224,9 +224,9 @@ Palm Jabal Ali,palm-jabal-ali,2 B/R,2-bedroom apartments,2-bedroom,142,ok,451500
 Palm Jabal Ali,palm-jabal-ali,3 B/R,3-bedroom apartments,3-bedroom,84,ok,7725500.0,3756.35,2046.11,,0,,https://datadubai.ae/communities/palm-jabal-ali/3-bedroom/
 Palm Jabal Ali,palm-jabal-ali,4 B/R,4-bedroom apartments,4-bedroom,29,ok,,3909.44,3880.28,,0,,https://datadubai.ae/communities/palm-jabal-ali/4-bedroom/
 Palm Jabal Ali,palm-jabal-ali,5 B/R,5-bedroom apartments,5-bedroom,6,low,,3653.21,5041.06,,0,,
-City Walk,city-walk,1 B/R,1-bedroom apartments,1-bedroom,306,ok,2749000.0,3328.49,804.39,141702.0,431,5.9,https://datadubai.ae/communities/city-walk/1-bedroom/
-City Walk,city-walk,2 B/R,2-bedroom apartments,2-bedroom,266,ok,4040000.0,3016.3,1352.81,230000.0,433,5.23,https://datadubai.ae/communities/city-walk/2-bedroom/
-City Walk,city-walk,3 B/R,3-bedroom apartments,3-bedroom,122,ok,7148000.0,3227.31,2254.12,312750.0,214,4.81,https://datadubai.ae/communities/city-walk/3-bedroom/
+City Walk,city-walk,1 B/R,1-bedroom apartments,1-bedroom,306,ok,2749000.0,3328.49,804.39,142101.0,432,5.92,https://datadubai.ae/communities/city-walk/1-bedroom/
+City Walk,city-walk,2 B/R,2-bedroom apartments,2-bedroom,266,ok,4040000.0,3016.3,1352.81,230000.0,435,5.23,https://datadubai.ae/communities/city-walk/2-bedroom/
+City Walk,city-walk,3 B/R,3-bedroom apartments,3-bedroom,122,ok,7146000.0,3227.31,2254.12,312750.0,216,4.81,https://datadubai.ae/communities/city-walk/3-bedroom/
 City Walk,city-walk,4 B/R,4-bedroom apartments,4-bedroom,24,ok,9325000.0,3369.84,4180.92,468562.52,24,,https://datadubai.ae/communities/city-walk/4-bedroom/
 City Walk,city-walk,5 B/R,5-bedroom apartments,5-bedroom,1,insufficient,,,,,0,,
 EXPO CITY,expo-city,1 B/R,1-bedroom apartments,1-bedroom,361,ok,1636888.0,2184.93,746.26,68000.0,540,,https://datadubai.ae/communities/expo-city/1-bedroom/
@@ -234,23 +234,23 @@ EXPO CITY,expo-city,2 B/R,2-bedroom apartments,2-bedroom,277,ok,2464590.0,2162.1
 EXPO CITY,expo-city,3 B/R,3-bedroom apartments,3-bedroom,23,ok,3594888.0,2132.97,1674.65,135000.0,142,,https://datadubai.ae/communities/expo-city/3-bedroom/
 EXPO CITY,expo-city,4 B/R,4-bedroom apartments,4-bedroom,3,insufficient,,,,,1,,
 Living Legends,living-legends,Studio,Studios,studio,198,ok,605473.0,1435.13,428.4,46000.0,69,7.8,https://datadubai.ae/communities/living-legends/studio/
-Living Legends,living-legends,1 B/R,1-bedroom apartments,1-bedroom,138,ok,1000000.0,1185.11,855.84,70000.0,137,8.09,https://datadubai.ae/communities/living-legends/1-bedroom/
-Living Legends,living-legends,2 B/R,2-bedroom apartments,2-bedroom,98,ok,1487990.0,1122.56,1415.35,100000.0,91,7.91,https://datadubai.ae/communities/living-legends/2-bedroom/
+Living Legends,living-legends,1 B/R,1-bedroom apartments,1-bedroom,138,ok,1000000.0,1185.11,855.84,70000.0,138,8.09,https://datadubai.ae/communities/living-legends/1-bedroom/
+Living Legends,living-legends,2 B/R,2-bedroom apartments,2-bedroom,98,ok,1487990.0,1122.56,1415.35,100000.0,92,7.91,https://datadubai.ae/communities/living-legends/2-bedroom/
 Living Legends,living-legends,3 B/R,3-bedroom apartments,3-bedroom,110,ok,2100000.0,1157.09,1818.46,150000.0,64,7.41,https://datadubai.ae/communities/living-legends/3-bedroom/
 Living Legends,living-legends,4 B/R,4-bedroom apartments,4-bedroom,2,insufficient,,,,,0,,
 Living Legends,living-legends,5 B/R,5-bedroom apartments,5-bedroom,1,insufficient,,,,222803.23,38,,
 Jaddaf Waterfront,jaddaf-waterfront,Studio,Studios,studio,35,ok,980000.0,1915.91,556.39,57100.0,178,5.45,https://datadubai.ae/communities/jaddaf-waterfront/studio/
-Jaddaf Waterfront,jaddaf-waterfront,1 B/R,1-bedroom apartments,1-bedroom,238,ok,1358750.0,1877.02,801.7,70000.0,495,6.09,https://datadubai.ae/communities/jaddaf-waterfront/1-bedroom/
-Jaddaf Waterfront,jaddaf-waterfront,2 B/R,2-bedroom apartments,2-bedroom,257,ok,1940031.0,1897.36,1018.48,95900.0,541,4.12,https://datadubai.ae/communities/jaddaf-waterfront/2-bedroom/
+Jaddaf Waterfront,jaddaf-waterfront,1 B/R,1-bedroom apartments,1-bedroom,238,ok,1358750.0,1877.02,801.7,70000.0,496,6.09,https://datadubai.ae/communities/jaddaf-waterfront/1-bedroom/
+Jaddaf Waterfront,jaddaf-waterfront,2 B/R,2-bedroom apartments,2-bedroom,257,ok,1940031.0,1897.36,1018.48,95823.0,542,4.12,https://datadubai.ae/communities/jaddaf-waterfront/2-bedroom/
 Jaddaf Waterfront,jaddaf-waterfront,3 B/R,3-bedroom apartments,3-bedroom,32,ok,3122999.5,1782.76,1913.18,160000.0,166,4.75,https://datadubai.ae/communities/jaddaf-waterfront/3-bedroom/
 Jaddaf Waterfront,jaddaf-waterfront,4 B/R,4-bedroom apartments,4-bedroom,1,insufficient,,,,300000.0,15,,
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,1 B/R,1-bedroom apartments,1-bedroom,150,ok,1375944.0,1876.78,761.76,78500.0,10,,https://datadubai.ae/communities/mohammed-bin-rashid-al-maktoum-district-11/1-bedroom/
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,2 B/R,2-bedroom apartments,2-bedroom,113,ok,2005218.0,1809.15,1219.98,110000.0,18,,https://datadubai.ae/communities/mohammed-bin-rashid-al-maktoum-district-11/2-bedroom/
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,3 B/R,3-bedroom apartments,3-bedroom,31,ok,6323328.0,1874.92,2015.0,160000.0,56,,https://datadubai.ae/communities/mohammed-bin-rashid-al-maktoum-district-11/3-bedroom/
-Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,4 B/R,4-bedroom apartments,4-bedroom,182,ok,4269100.0,1734.38,2635.01,178000.0,309,4.62,https://datadubai.ae/communities/mohammed-bin-rashid-al-maktoum-district-11/4-bedroom/
+Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,4 B/R,4-bedroom apartments,4-bedroom,182,ok,4269100.0,1734.38,2635.01,177200.0,310,4.6,https://datadubai.ae/communities/mohammed-bin-rashid-al-maktoum-district-11/4-bedroom/
 Mohammed Bin Rashid AL Maktoum District 11,mohammed-bin-rashid-al-maktoum-district-11,5 B/R,5-bedroom apartments,5-bedroom,70,ok,12982513.5,2844.14,4767.98,,0,,https://datadubai.ae/communities/mohammed-bin-rashid-al-maktoum-district-11/5-bedroom/
-The Valley,the-valley,3 B/R,3-bedroom apartments,3-bedroom,277,ok,2730000.0,1505.67,1872.92,135000.0,605,4.95,https://datadubai.ae/communities/the-valley/3-bedroom/
-The Valley,the-valley,4 B/R,4-bedroom apartments,4-bedroom,246,ok,3600000.0,1190.51,3014.38,170000.0,207,4.97,https://datadubai.ae/communities/the-valley/4-bedroom/
+The Valley,the-valley,3 B/R,3-bedroom apartments,3-bedroom,277,ok,2730000.0,1505.67,1872.92,135000.0,606,4.95,https://datadubai.ae/communities/the-valley/3-bedroom/
+The Valley,the-valley,4 B/R,4-bedroom apartments,4-bedroom,246,ok,3600000.0,1190.51,3014.38,170000.0,208,4.97,https://datadubai.ae/communities/the-valley/4-bedroom/
 The Valley,the-valley,5 B/R,5-bedroom apartments,5-bedroom,12,low,5450000.0,1000.71,5340.19,,0,,
 Jumeirah Lakes Towers,jumeirah-lakes-towers,Studio,Studios,studio,48,ok,815000.0,1707.85,456.77,62000.0,261,7.76,https://datadubai.ae/communities/jumeirah-lakes-towers/studio/
 Jumeirah Lakes Towers,jumeirah-lakes-towers,1 B/R,1-bedroom apartments,1-bedroom,182,ok,1570000.0,1795.97,812.73,85000.0,771,7.08,https://datadubai.ae/communities/jumeirah-lakes-towers/1-bedroom/
@@ -265,12 +265,12 @@ Mina Rashid,mina-rashid,3 B/R,3-bedroom apartments,3-bedroom,69,ok,5419888.0,309
 Mina Rashid,mina-rashid,4 B/R,4-bedroom apartments,4-bedroom,1,insufficient,,,,,1,,
 Mudon,mudon,1 B/R,1-bedroom apartments,1-bedroom,8,low,932030.5,1360.44,688.78,64500.0,50,,
 Mudon,mudon,2 B/R,2-bedroom apartments,2-bedroom,10,low,1560000.0,1395.51,1046.41,107000.0,35,,
-Mudon,mudon,3 B/R,3-bedroom apartments,3-bedroom,253,ok,3400000.0,1828.91,1815.66,180000.0,770,5.24,https://datadubai.ae/communities/mudon/3-bedroom/
-Mudon,mudon,4 B/R,4-bedroom apartments,4-bedroom,176,ok,4350000.0,1479.74,2846.3,235000.0,410,5.22,https://datadubai.ae/communities/mudon/4-bedroom/
+Mudon,mudon,3 B/R,3-bedroom apartments,3-bedroom,253,ok,3400000.0,1828.91,1815.66,180000.0,773,5.24,https://datadubai.ae/communities/mudon/3-bedroom/
+Mudon,mudon,4 B/R,4-bedroom apartments,4-bedroom,176,ok,4350000.0,1479.74,2846.3,235000.0,411,5.22,https://datadubai.ae/communities/mudon/4-bedroom/
 Dubai Water Canal,dubai-water-canal,Studio,Studios,studio,67,ok,1311000.0,3323.61,394.93,,0,,https://datadubai.ae/communities/dubai-water-canal/studio/
 Dubai Water Canal,dubai-water-canal,1 B/R,1-bedroom apartments,1-bedroom,204,ok,2267000.0,2946.14,770.53,155000.0,60,5.57,https://datadubai.ae/communities/dubai-water-canal/1-bedroom/
 Dubai Water Canal,dubai-water-canal,2 B/R,2-bedroom apartments,2-bedroom,157,ok,4136169.0,2893.52,1505.76,211585.33,221,4.55,https://datadubai.ae/communities/dubai-water-canal/2-bedroom/
-Dubai Water Canal,dubai-water-canal,3 B/R,3-bedroom apartments,3-bedroom,107,ok,9037028.0,3879.28,2404.44,340000.0,38,,https://datadubai.ae/communities/dubai-water-canal/3-bedroom/
+Dubai Water Canal,dubai-water-canal,3 B/R,3-bedroom apartments,3-bedroom,107,ok,9037028.0,3877.64,2404.44,340000.0,38,,https://datadubai.ae/communities/dubai-water-canal/3-bedroom/
 Dubai Water Canal,dubai-water-canal,4 B/R,4-bedroom apartments,4-bedroom,19,low,,3906.89,5112.0,,3,,
 Dubai Water Canal,dubai-water-canal,5 B/R,5-bedroom apartments,5-bedroom,9,low,,,10402.14,,2,,
 Business Park,business-park,1 B/R,1-bedroom apartments,1-bedroom,222,ok,2415000.0,2825.18,855.09,,0,,https://datadubai.ae/communities/business-park/1-bedroom/
@@ -279,43 +279,43 @@ Business Park,business-park,3 B/R,3-bedroom apartments,3-bedroom,77,ok,7764000.0
 Business Park,business-park,4 B/R,4-bedroom apartments,4-bedroom,10,low,,3925.2,2813.09,,0,,
 Business Park,business-park,5 B/R,5-bedroom apartments,5-bedroom,2,insufficient,,,,,0,,
 The Greens,the-greens,Studio,Studios,studio,30,ok,900000.0,1997.34,438.31,60000.0,287,6.67,https://datadubai.ae/communities/the-greens/studio/
-The Greens,the-greens,1 B/R,1-bedroom apartments,1-bedroom,213,ok,1500000.0,1849.68,776.62,90000.0,1745,6.04,https://datadubai.ae/communities/the-greens/1-bedroom/
-The Greens,the-greens,2 B/R,2-bedroom apartments,2-bedroom,169,ok,2475000.0,1767.12,1331.39,150000.0,1122,6.12,https://datadubai.ae/communities/the-greens/2-bedroom/
-The Greens,the-greens,3 B/R,3-bedroom apartments,3-bedroom,50,ok,3820000.0,2052.54,1909.73,190000.0,359,5.28,https://datadubai.ae/communities/the-greens/3-bedroom/
+The Greens,the-greens,1 B/R,1-bedroom apartments,1-bedroom,213,ok,1500000.0,1849.68,776.62,90000.0,1748,6.04,https://datadubai.ae/communities/the-greens/1-bedroom/
+The Greens,the-greens,2 B/R,2-bedroom apartments,2-bedroom,169,ok,2475000.0,1767.12,1331.39,150000.0,1123,6.12,https://datadubai.ae/communities/the-greens/2-bedroom/
+The Greens,the-greens,3 B/R,3-bedroom apartments,3-bedroom,50,ok,3820000.0,2052.54,1909.73,190000.0,360,5.28,https://datadubai.ae/communities/the-greens/3-bedroom/
 The Greens,the-greens,4 B/R,4-bedroom apartments,4-bedroom,5,low,6100000.0,2542.32,2399.38,213750.0,10,,
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,Studio,Studios,studio,12,low,1190000.0,1698.25,713.97,72000.0,125,,
-Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,1 B/R,1-bedroom apartments,1-bedroom,105,ok,2000000.0,1806.05,1057.66,100000.0,743,5.0,https://datadubai.ae/communities/jumeriah-beach-residence-jbr/1-bedroom/
+Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,1 B/R,1-bedroom apartments,1-bedroom,105,ok,2000000.0,1806.05,1057.66,100000.0,745,5.0,https://datadubai.ae/communities/jumeriah-beach-residence-jbr/1-bedroom/
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,2 B/R,2-bedroom apartments,2-bedroom,179,ok,2350000.0,1603.14,1394.2,130000.0,1179,5.53,https://datadubai.ae/communities/jumeriah-beach-residence-jbr/2-bedroom/
-Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,3 B/R,3-bedroom apartments,3-bedroom,104,ok,2880000.0,1468.87,1910.7,175000.0,779,6.08,https://datadubai.ae/communities/jumeriah-beach-residence-jbr/3-bedroom/
-Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,4 B/R,4-bedroom apartments,4-bedroom,41,ok,4700000.0,1400.09,3046.51,266666.67,147,5.67,https://datadubai.ae/communities/jumeriah-beach-residence-jbr/4-bedroom/
+Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,3 B/R,3-bedroom apartments,3-bedroom,104,ok,2880000.0,1468.87,1910.7,175000.0,781,6.08,https://datadubai.ae/communities/jumeriah-beach-residence-jbr/3-bedroom/
+Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,4 B/R,4-bedroom apartments,4-bedroom,41,ok,4700000.0,1397.82,3046.51,266666.67,147,5.67,https://datadubai.ae/communities/jumeriah-beach-residence-jbr/4-bedroom/
 Jumeriah Beach Residence - JBR,jumeriah-beach-residence-jbr,5 B/R,5-bedroom apartments,5-bedroom,2,insufficient,,,,,4,,
-Arabian Ranches 3,arabian-ranches-3,3 B/R,3-bedroom apartments,3-bedroom,192,ok,2950000.0,1926.61,1559.04,150000.0,1026,4.92,https://datadubai.ae/communities/arabian-ranches-3/3-bedroom/
-Arabian Ranches 3,arabian-ranches-3,4 B/R,4-bedroom apartments,4-bedroom,131,ok,4200000.0,1453.88,2795.71,225000.0,653,5.1,https://datadubai.ae/communities/arabian-ranches-3/4-bedroom/
+Arabian Ranches 3,arabian-ranches-3,3 B/R,3-bedroom apartments,3-bedroom,192,ok,2950000.0,1926.61,1559.04,150000.0,1029,4.92,https://datadubai.ae/communities/arabian-ranches-3/3-bedroom/
+Arabian Ranches 3,arabian-ranches-3,4 B/R,4-bedroom apartments,4-bedroom,131,ok,4200000.0,1453.88,2795.71,225000.0,654,5.1,https://datadubai.ae/communities/arabian-ranches-3/4-bedroom/
 Arabian Ranches 3,arabian-ranches-3,5 B/R,5-bedroom apartments,5-bedroom,17,low,6200000.0,1371.43,4520.84,325000.0,69,5.24,
-WARSAN FIRST DEVELOPMENT,warsan-first-development,Studio,Studios,studio,221,ok,523700.0,1379.45,380.07,40000.0,246,7.96,https://datadubai.ae/communities/warsan-first-development/studio/
-WARSAN FIRST DEVELOPMENT,warsan-first-development,1 B/R,1-bedroom apartments,1-bedroom,128,ok,834050.0,1211.18,682.75,50000.2,658,6.41,https://datadubai.ae/communities/warsan-first-development/1-bedroom/
-WARSAN FIRST DEVELOPMENT,warsan-first-development,2 B/R,2-bedroom apartments,2-bedroom,24,ok,1289850.0,1169.49,1091.46,68000.0,204,,https://datadubai.ae/communities/warsan-first-development/2-bedroom/
+WARSAN FIRST DEVELOPMENT,warsan-first-development,Studio,Studios,studio,221,ok,523700.0,1379.45,380.07,40000.0,247,7.96,https://datadubai.ae/communities/warsan-first-development/studio/
+WARSAN FIRST DEVELOPMENT,warsan-first-development,1 B/R,1-bedroom apartments,1-bedroom,128,ok,834050.0,1211.18,682.75,50000.0,661,6.41,https://datadubai.ae/communities/warsan-first-development/1-bedroom/
+WARSAN FIRST DEVELOPMENT,warsan-first-development,2 B/R,2-bedroom apartments,2-bedroom,24,ok,1289850.0,1169.49,1091.46,68000.0,207,,https://datadubai.ae/communities/warsan-first-development/2-bedroom/
 Falcon City,falcon-city,Studio,Studios,studio,89,ok,870247.0,1885.01,452.19,,0,,https://datadubai.ae/communities/falcon-city/studio/
 Falcon City,falcon-city,1 B/R,1-bedroom apartments,1-bedroom,162,ok,1347975.0,1596.19,912.67,,0,,https://datadubai.ae/communities/falcon-city/1-bedroom/
 Falcon City,falcon-city,2 B/R,2-bedroom apartments,2-bedroom,94,ok,1894828.0,1565.43,1197.86,,0,,https://datadubai.ae/communities/falcon-city/2-bedroom/
 Falcon City,falcon-city,3 B/R,3-bedroom apartments,3-bedroom,22,ok,2726828.0,1578.43,1721.2,,0,,https://datadubai.ae/communities/falcon-city/3-bedroom/
-Wasl 1,wasl-1,1 B/R,1-bedroom apartments,1-bedroom,75,ok,1950000.0,2249.21,894.91,105000.0,237,5.83,https://datadubai.ae/communities/wasl-1/1-bedroom/
+Wasl 1,wasl-1,1 B/R,1-bedroom apartments,1-bedroom,75,ok,1950000.0,2249.21,894.91,105000.0,238,5.83,https://datadubai.ae/communities/wasl-1/1-bedroom/
 Wasl 1,wasl-1,2 B/R,2-bedroom apartments,2-bedroom,215,ok,2735777.0,2151.95,1272.03,150000.0,358,5.26,https://datadubai.ae/communities/wasl-1/2-bedroom/
-Wasl 1,wasl-1,3 B/R,3-bedroom apartments,3-bedroom,92,ok,4074605.0,2362.95,1742.25,220000.0,29,5.08,https://datadubai.ae/communities/wasl-1/3-bedroom/
+Wasl 1,wasl-1,3 B/R,3-bedroom apartments,3-bedroom,92,ok,4074605.0,2362.95,1742.25,220000.0,30,5.08,https://datadubai.ae/communities/wasl-1/3-bedroom/
 Wasl 1,wasl-1,4 B/R,4-bedroom apartments,4-bedroom,2,insufficient,,,,1600000.0,5,,
-TILAL AL GHAF,tilal-al-ghaf,3 B/R,3-bedroom apartments,3-bedroom,76,ok,4000000.0,2602.64,1511.58,195000.0,501,4.88,https://datadubai.ae/communities/tilal-al-ghaf/3-bedroom/
-TILAL AL GHAF,tilal-al-ghaf,4 B/R,4-bedroom apartments,4-bedroom,116,ok,5550000.0,2127.78,2388.46,315000.0,635,6.3,https://datadubai.ae/communities/tilal-al-ghaf/4-bedroom/
+TILAL AL GHAF,tilal-al-ghaf,3 B/R,3-bedroom apartments,3-bedroom,76,ok,4000000.0,2602.64,1511.58,195000.0,502,4.88,https://datadubai.ae/communities/tilal-al-ghaf/3-bedroom/
+TILAL AL GHAF,tilal-al-ghaf,4 B/R,4-bedroom apartments,4-bedroom,116,ok,5550000.0,2128.77,2388.46,315000.0,635,6.3,https://datadubai.ae/communities/tilal-al-ghaf/4-bedroom/
 TILAL AL GHAF,tilal-al-ghaf,5 B/R,5-bedroom apartments,5-bedroom,11,low,6250000.0,2473.58,2464.18,645000.0,135,,
 Jumeirah Golf Estates,jumeirah-golf-estates,1 B/R,1-bedroom apartments,1-bedroom,24,ok,1250000.0,1496.76,816.93,85545.46,128,6.84,https://datadubai.ae/communities/jumeirah-golf-estates/1-bedroom/
 Jumeirah Golf Estates,jumeirah-golf-estates,2 B/R,2-bedroom apartments,2-bedroom,34,ok,2150000.0,1537.04,1371.21,130000.0,170,6.05,https://datadubai.ae/communities/jumeirah-golf-estates/2-bedroom/
 Jumeirah Golf Estates,jumeirah-golf-estates,3 B/R,3-bedroom apartments,3-bedroom,37,ok,4195000.0,2695.32,1577.99,270000.0,171,6.44,https://datadubai.ae/communities/jumeirah-golf-estates/3-bedroom/
 Jumeirah Golf Estates,jumeirah-golf-estates,4 B/R,4-bedroom apartments,4-bedroom,13,low,7450000.0,2398.04,2809.6,465000.0,101,,
 Jumeirah Golf Estates,jumeirah-golf-estates,5 B/R,5-bedroom apartments,5-bedroom,1,insufficient,,,,850000.0,106,,
-Emirates Living,emirates-living,2 B/R,2-bedroom apartments,2-bedroom,142,ok,3700000.0,1624.81,2210.58,150000.0,745,4.05,https://datadubai.ae/communities/emirates-living/2-bedroom/
-Emirates Living,emirates-living,3 B/R,3-bedroom apartments,3-bedroom,113,ok,5610000.0,1710.76,3522.6,230000.0,877,4.1,https://datadubai.ae/communities/emirates-living/3-bedroom/
+Emirates Living,emirates-living,2 B/R,2-bedroom apartments,2-bedroom,142,ok,3700000.0,1624.81,2210.58,150000.0,747,4.05,https://datadubai.ae/communities/emirates-living/2-bedroom/
+Emirates Living,emirates-living,3 B/R,3-bedroom apartments,3-bedroom,113,ok,5610000.0,1710.76,3522.6,230000.0,881,4.1,https://datadubai.ae/communities/emirates-living/3-bedroom/
 Barsha Heights,barsha-heights,Studio,Studios,studio,32,ok,820000.0,1950.66,373.35,60000.0,446,7.32,https://datadubai.ae/communities/barsha-heights/studio/
-Barsha Heights,barsha-heights,1 B/R,1-bedroom apartments,1-bedroom,47,ok,1116645.0,1525.0,729.47,66234.0,2296,5.93,https://datadubai.ae/communities/barsha-heights/1-bedroom/
-Barsha Heights,barsha-heights,2 B/R,2-bedroom apartments,2-bedroom,42,ok,1460000.0,1189.35,1307.28,88000.0,2271,6.03,https://datadubai.ae/communities/barsha-heights/2-bedroom/
+Barsha Heights,barsha-heights,1 B/R,1-bedroom apartments,1-bedroom,47,ok,1116645.0,1525.0,729.47,66234.0,2300,5.93,https://datadubai.ae/communities/barsha-heights/1-bedroom/
+Barsha Heights,barsha-heights,2 B/R,2-bedroom apartments,2-bedroom,42,ok,1460000.0,1189.35,1307.28,88000.0,2280,6.03,https://datadubai.ae/communities/barsha-heights/2-bedroom/
 Barsha Heights,barsha-heights,3 B/R,3-bedroom apartments,3-bedroom,4,insufficient,,,,121552.0,281,,
 Barsha Heights,barsha-heights,4 B/R,4-bedroom apartments,4-bedroom,1,insufficient,,,,190000.0,7,,
 Al Barari,al-barari,Studio,Studios,studio,19,low,974801.0,1738.23,560.15,90000.0,6,,
@@ -324,14 +324,14 @@ Al Barari,al-barari,2 B/R,2-bedroom apartments,2-bedroom,103,ok,5280224.0,2545.1
 Al Barari,al-barari,3 B/R,3-bedroom apartments,3-bedroom,28,ok,7357613.5,2895.28,2486.03,555000.0,10,,https://datadubai.ae/communities/al-barari/3-bedroom/
 Al Barari,al-barari,4 B/R,4-bedroom apartments,4-bedroom,29,ok,7900000.0,3221.55,1940.19,492500.0,102,6.23,https://datadubai.ae/communities/al-barari/4-bedroom/
 Al Barari,al-barari,5 B/R,5-bedroom apartments,5-bedroom,2,insufficient,,,,900000.0,46,,
-LA MER,la-mer,1 B/R,1-bedroom apartments,1-bedroom,57,ok,2300000.0,2851.9,802.45,120000.0,346,5.22,https://datadubai.ae/communities/la-mer/1-bedroom/
+LA MER,la-mer,1 B/R,1-bedroom apartments,1-bedroom,57,ok,2300000.0,2851.9,802.45,120000.0,347,5.22,https://datadubai.ae/communities/la-mer/1-bedroom/
 LA MER,la-mer,2 B/R,2-bedroom apartments,2-bedroom,79,ok,4000000.0,3040.95,1328.05,200000.0,278,5.0,https://datadubai.ae/communities/la-mer/2-bedroom/
 LA MER,la-mer,3 B/R,3-bedroom apartments,3-bedroom,61,ok,7775000.0,3837.61,3188.27,410000.0,63,5.36,https://datadubai.ae/communities/la-mer/3-bedroom/
-LA MER,la-mer,4 B/R,4-bedroom apartments,4-bedroom,49,ok,,,4603.51,600000.0,25,,https://datadubai.ae/communities/la-mer/4-bedroom/
+LA MER,la-mer,4 B/R,4-bedroom apartments,4-bedroom,49,ok,,,4603.51,595000.0,26,,https://datadubai.ae/communities/la-mer/4-bedroom/
 LA MER,la-mer,5 B/R,5-bedroom apartments,5-bedroom,17,low,,,7642.7,1100000.0,11,,
-Dubai Investment Park Second,dubai-investment-park-second,Studio,Studios,studio,81,ok,401183.0,889.94,451.01,36000.0,1035,8.97,https://datadubai.ae/communities/dubai-investment-park-second/studio/
+Dubai Investment Park Second,dubai-investment-park-second,Studio,Studios,studio,81,ok,401183.0,889.94,451.01,36000.0,1038,8.97,https://datadubai.ae/communities/dubai-investment-park-second/studio/
 Dubai Investment Park Second,dubai-investment-park-second,1 B/R,1-bedroom apartments,1-bedroom,89,ok,581609.0,700.0,829.68,50000.0,980,8.6,https://datadubai.ae/communities/dubai-investment-park-second/1-bedroom/
-Dubai Investment Park Second,dubai-investment-park-second,2 B/R,2-bedroom apartments,2-bedroom,33,ok,980000.0,636.59,1495.86,80000.0,270,8.16,https://datadubai.ae/communities/dubai-investment-park-second/2-bedroom/
+Dubai Investment Park Second,dubai-investment-park-second,2 B/R,2-bedroom apartments,2-bedroom,33,ok,980000.0,636.59,1495.86,80000.0,271,8.16,https://datadubai.ae/communities/dubai-investment-park-second/2-bedroom/
 Dubai Investment Park Second,dubai-investment-park-second,3 B/R,3-bedroom apartments,3-bedroom,5,low,1651000.0,663.24,2587.54,135000.0,16,,
 Arabian Ranches - 1,arabian-ranches-1,2 B/R,2-bedroom apartments,2-bedroom,40,ok,3937783.0,1450.29,2702.49,165000.0,227,4.19,https://datadubai.ae/communities/arabian-ranches-1/2-bedroom/
 Arabian Ranches - 1,arabian-ranches-1,3 B/R,3-bedroom apartments,3-bedroom,94,ok,4999999.5,1440.36,3723.34,240000.0,647,4.8,https://datadubai.ae/communities/arabian-ranches-1/3-bedroom/
@@ -339,18 +339,18 @@ Nad Al Sheba Gardens,nad-al-sheba-gardens,1 B/R,1-bedroom apartments,1-bedroom,5
 Nad Al Sheba Gardens,nad-al-sheba-gardens,2 B/R,2-bedroom apartments,2-bedroom,41,ok,2166378.0,1792.05,1274.99,130000.0,86,,https://datadubai.ae/communities/nad-al-sheba-gardens/2-bedroom/
 Nad Al Sheba Gardens,nad-al-sheba-gardens,3 B/R,3-bedroom apartments,3-bedroom,58,ok,5500000.0,2061.37,2836.13,310000.0,89,,https://datadubai.ae/communities/nad-al-sheba-gardens/3-bedroom/
 Remraam,remraam,Studio,Studios,studio,30,ok,470000.0,988.64,468.45,40000.0,275,8.51,https://datadubai.ae/communities/remraam/studio/
-Remraam,remraam,1 B/R,1-bedroom apartments,1-bedroom,105,ok,680000.0,932.19,688.89,55000.0,1036,8.09,https://datadubai.ae/communities/remraam/1-bedroom/
-Remraam,remraam,2 B/R,2-bedroom apartments,2-bedroom,93,ok,1100000.0,951.38,1095.87,77000.0,651,7.0,https://datadubai.ae/communities/remraam/2-bedroom/
+Remraam,remraam,1 B/R,1-bedroom apartments,1-bedroom,105,ok,680000.0,932.19,688.89,55000.0,1039,8.09,https://datadubai.ae/communities/remraam/1-bedroom/
+Remraam,remraam,2 B/R,2-bedroom apartments,2-bedroom,93,ok,1100000.0,951.38,1095.87,77000.0,652,7.0,https://datadubai.ae/communities/remraam/2-bedroom/
 Remraam,remraam,3 B/R,3-bedroom apartments,3-bedroom,25,ok,1800000.0,900.0,2206.28,108353.85,128,6.02,https://datadubai.ae/communities/remraam/3-bedroom/
 Rukan,rukan,Studio,Studios,studio,32,ok,506500.0,1200.71,423.4,40000.0,152,7.9,https://datadubai.ae/communities/rukan/studio/
-Rukan,rukan,1 B/R,1-bedroom apartments,1-bedroom,128,ok,960000.0,1317.77,581.79,67000.0,587,6.98,https://datadubai.ae/communities/rukan/1-bedroom/
+Rukan,rukan,1 B/R,1-bedroom apartments,1-bedroom,128,ok,960000.0,1317.77,581.79,67000.0,588,6.98,https://datadubai.ae/communities/rukan/1-bedroom/
 Rukan,rukan,2 B/R,2-bedroom apartments,2-bedroom,60,ok,1665000.0,1509.84,1062.88,105000.0,217,6.31,https://datadubai.ae/communities/rukan/2-bedroom/
 Rukan,rukan,3 B/R,3-bedroom apartments,3-bedroom,21,ok,2100000.0,1410.54,1405.98,130000.0,49,6.19,https://datadubai.ae/communities/rukan/3-bedroom/
 Rukan,rukan,4 B/R,4-bedroom apartments,4-bedroom,2,insufficient,,,,,2,,
 Site A,site-a,1 B/R,1-bedroom apartments,1-bedroom,63,ok,2380000.0,2482.77,1083.28,94500.0,94,4.09,https://datadubai.ae/communities/site-a/1-bedroom/
-Site A,site-a,2 B/R,2-bedroom apartments,2-bedroom,82,ok,3943236.5,2551.53,1579.93,117447.0,112,3.35,https://datadubai.ae/communities/site-a/2-bedroom/
-Site A,site-a,3 B/R,3-bedroom apartments,3-bedroom,50,ok,5435816.0,2821.57,2277.59,160715.65,64,3.17,https://datadubai.ae/communities/site-a/3-bedroom/
-Site A,site-a,4 B/R,4-bedroom apartments,4-bedroom,14,low,,3512.95,4815.45,680000.0,30,,
+Site A,site-a,2 B/R,2-bedroom apartments,2-bedroom,82,ok,3943236.5,2551.53,1579.93,117180.0,115,3.34,https://datadubai.ae/communities/site-a/2-bedroom/
+Site A,site-a,3 B/R,3-bedroom apartments,3-bedroom,50,ok,5435816.0,2821.57,2277.59,160641.05,65,3.16,https://datadubai.ae/communities/site-a/3-bedroom/
+Site A,site-a,4 B/R,4-bedroom apartments,4-bedroom,14,low,,3512.95,4815.45,650000.0,31,,
 Mohammed Bin Rashid AL Maktoum City -District -1 Community,mohammed-bin-rashid-al-maktoum-city-district-1-community,1 B/R,1-bedroom apartments,1-bedroom,105,ok,1522285.0,1917.01,767.25,95000.0,563,6.33,https://datadubai.ae/communities/mohammed-bin-rashid-al-maktoum-city-district-1-community/1-bedroom/
 Mohammed Bin Rashid AL Maktoum City -District -1 Community,mohammed-bin-rashid-al-maktoum-city-district-1-community,2 B/R,2-bedroom apartments,2-bedroom,37,ok,2640800.0,2090.46,1309.97,160000.0,178,6.21,https://datadubai.ae/communities/mohammed-bin-rashid-al-maktoum-city-district-1-community/2-bedroom/
 Mohammed Bin Rashid AL Maktoum City -District -1 Community,mohammed-bin-rashid-al-maktoum-city-district-1-community,3 B/R,3-bedroom apartments,3-bedroom,18,low,4137500.0,2342.33,1779.49,256086.96,61,6.48,
@@ -358,7 +358,7 @@ Mohammed Bin Rashid AL Maktoum City -District -1 Community,mohammed-bin-rashid-a
 Jumeirah Park,jumeirah-park,4 B/R,4-bedroom apartments,4-bedroom,3,insufficient,,,,350000.0,331,,
 HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,hadaeq-sheikh-mohammed-bin-rashid-disrict-7,Studio,Studios,studio,39,ok,737500.0,1783.8,411.61,53000.0,393,7.19,https://datadubai.ae/communities/hadaeq-sheikh-mohammed-bin-rashid-disrict-7/studio/
 HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,hadaeq-sheikh-mohammed-bin-rashid-disrict-7,1 B/R,1-bedroom apartments,1-bedroom,29,ok,1350000.0,1622.45,796.21,80000.0,179,5.93,https://datadubai.ae/communities/hadaeq-sheikh-mohammed-bin-rashid-disrict-7/1-bedroom/
-HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,hadaeq-sheikh-mohammed-bin-rashid-disrict-7,2 B/R,2-bedroom apartments,2-bedroom,19,low,3000000.0,2197.8,1410.5,160000.0,181,,
+HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,hadaeq-sheikh-mohammed-bin-rashid-disrict-7,2 B/R,2-bedroom apartments,2-bedroom,19,low,3000000.0,2197.8,1410.5,160000.0,182,,
 HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,hadaeq-sheikh-mohammed-bin-rashid-disrict-7,3 B/R,3-bedroom apartments,3-bedroom,16,low,3725000.0,2534.79,1460.45,190000.0,168,5.1,
 HADAEQ SHEIKH MOHAMMED BIN RASHID - DISRICT 7,hadaeq-sheikh-mohammed-bin-rashid-disrict-7,4 B/R,4-bedroom apartments,4-bedroom,6,low,10025000.0,,2583.55,300000.0,21,,
 Bluewaters Island,bluewaters-island,1 B/R,1-bedroom apartments,1-bedroom,16,low,5362500.0,3868.4,1142.1,279045.5,64,5.2,
@@ -371,11 +371,11 @@ Dubai International Financial Center,dubai-international-financial-center,2 B/R,
 Dubai International Financial Center,dubai-international-financial-center,3 B/R,3-bedroom apartments,3-bedroom,13,low,,4615.68,2605.73,,0,,
 Dubai International Financial Center,dubai-international-financial-center,4 B/R,4-bedroom apartments,4-bedroom,3,insufficient,,,,,0,,
 Dubai International Financial Center,dubai-international-financial-center,5 B/R,5-bedroom apartments,5-bedroom,1,insufficient,,,,,0,,
-Arabian Ranches II,arabian-ranches-ii,3 B/R,3-bedroom apartments,3-bedroom,11,low,3500000.0,1957.6,1883.68,180000.0,319,,
+Arabian Ranches II,arabian-ranches-ii,3 B/R,3-bedroom apartments,3-bedroom,11,low,3500000.0,1957.6,1883.68,180000.0,320,,
 Arabian Ranches II,arabian-ranches-ii,4 B/R,4-bedroom apartments,4-bedroom,11,low,4500000.0,1526.28,2982.68,290000.0,311,,
 800 Villas,800-villas,2 B/R,2-bedroom apartments,2-bedroom,17,low,2500000.0,1306.03,1859.9,135000.0,179,5.4,
-800 Villas,800-villas,3 B/R,3-bedroom apartments,3-bedroom,56,ok,3317500.0,1233.8,2797.54,160000.0,355,4.82,https://datadubai.ae/communities/800-villas/3-bedroom/
-Madinat Badr,madinat-badr,1 B/R,1-bedroom apartments,1-bedroom,17,low,1250000.0,1331.32,903.95,78000.0,149,6.24,
+800 Villas,800-villas,3 B/R,3-bedroom apartments,3-bedroom,56,ok,3317500.0,1233.8,2797.54,160000.0,356,4.82,https://datadubai.ae/communities/800-villas/3-bedroom/
+Madinat Badr,madinat-badr,1 B/R,1-bedroom apartments,1-bedroom,17,low,1250000.0,1331.32,903.95,78055.12,150,6.24,
 Madinat Badr,madinat-badr,2 B/R,2-bedroom apartments,2-bedroom,24,ok,2075000.0,1405.13,1411.36,117000.0,148,5.64,https://datadubai.ae/communities/madinat-badr/2-bedroom/
 Madinat Badr,madinat-badr,3 B/R,3-bedroom apartments,3-bedroom,5,low,2900000.0,1267.28,2091.97,172500.0,32,,
 THE SUSTAINABLE CITY,the-sustainable-city,3 B/R,3-bedroom apartments,3-bedroom,14,low,4625000.0,2193.14,2104.4,255000.0,68,,
@@ -402,9 +402,9 @@ Uptown Mirdif,uptown-mirdif,3 B/R,3-bedroom apartments,3-bedroom,1,insufficient,
 Dubai Life Style City,dubai-life-style-city,1 B/R,1-bedroom apartments,1-bedroom,14,low,1212500.0,1487.69,783.18,,0,,
 Dubai Life Style City,dubai-life-style-city,2 B/R,2-bedroom apartments,2-bedroom,8,low,1694450.0,1431.06,1243.82,,0,,
 Dubai Life Style City,dubai-life-style-city,3 B/R,3-bedroom apartments,3-bedroom,1,insufficient,,,,,0,,
-Liwan2,liwan2,1 B/R,1-bedroom apartments,1-bedroom,7,low,500000.0,762.0,752.07,54000.0,774,,
+Liwan2,liwan2,1 B/R,1-bedroom apartments,1-bedroom,7,low,500000.0,762.0,752.07,54000.0,776,,
 Liwan2,liwan2,2 B/R,2-bedroom apartments,2-bedroom,8,low,1296000.0,1111.24,1089.63,75000.0,319,,
-Al Aryam,al-aryam,3 B/R,3-bedroom apartments,3-bedroom,14,low,3087500.0,1055.18,2881.55,155000.0,127,,
+Al Aryam,al-aryam,3 B/R,3-bedroom apartments,3-bedroom,14,low,3087500.0,1055.18,2881.55,155000.0,131,,
 Al Aryam,al-aryam,4 B/R,4-bedroom apartments,4-bedroom,10,low,3700000.0,1276.82,3023.8,185000.0,41,,
 Springs - 1,springs-1,2 B/R,2-bedroom apartments,2-bedroom,10,low,3525000.0,1602.88,2153.75,163750.0,34,,
 Springs - 1,springs-1,3 B/R,3-bedroom apartments,3-bedroom,13,low,5700000.0,1701.42,2936.18,244690.0,50,,

@@ -1,7 +1,7 @@
 entity,code,label,slug,n,quality,price_median,psf_median,sqft_median,rent_median,n_rents,yield_pct,url
-Dubai,Studio,Studios,studio,41871,ok,690000.0,1744.66,395.14,40000.0,98797,7.14,
-Dubai,1 B/R,1-bedroom apartments,1-bedroom,56771,ok,1250000.0,1643.39,775.49,58644.45,218490,5.59,
-Dubai,2 B/R,2-bedroom apartments,2-bedroom,32066,ok,2199999.5,1755.65,1242.69,77613.0,176705,3.88,
-Dubai,3 B/R,3-bedroom apartments,3-bedroom,11662,ok,3486888.0,1905.65,1834.6,134400.0,62001,4.07,
-Dubai,4 B/R,4-bedroom apartments,4-bedroom,7198,ok,3350000.0,1771.61,2153.97,206167.0,21696,4.98,
-Dubai,5 B/R,5-bedroom apartments,5-bedroom,1976,ok,4717500.0,1743.05,2549.49,280000.0,7553,4.76,
+Dubai,Studio,Studios,studio,41871,ok,690000.0,1744.64,395.14,40000.0,99026,7.14,
+Dubai,1 B/R,1-bedroom apartments,1-bedroom,56771,ok,1250000.0,1643.39,775.49,58590.0,219004,5.58,
+Dubai,2 B/R,2-bedroom apartments,2-bedroom,32066,ok,2199999.0,1755.65,1242.69,77613.0,177108,3.88,
+Dubai,3 B/R,3-bedroom apartments,3-bedroom,11662,ok,3486388.0,1905.52,1834.6,134439.83,62135,4.07,
+Dubai,4 B/R,4-bedroom apartments,4-bedroom,7198,ok,3350000.0,1771.61,2153.97,206167.0,21753,4.97,
+Dubai,5 B/R,5-bedroom apartments,5-bedroom,1976,ok,4717500.0,1741.04,2549.49,280000.0,7572,4.76,
